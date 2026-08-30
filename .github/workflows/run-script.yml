@@ -32,7 +32,7 @@ jobs:
       - name: Run script
         env:
           TWEETAPI_KEY: ${{ secrets.TWEETAPI_KEY }}
-        run: python tweets.py test
+        run: python tweets.py
 
       - name: Commit changes
         run: |
