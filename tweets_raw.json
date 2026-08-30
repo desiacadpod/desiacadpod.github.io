@@ -1,6 +1,24 @@
 {
   "tweets": [
     {
+      "text": "It's time for a new season! 🥳🥳\n\nFor E1, we are joined by friend-of-the-pod Prof. Indranil Dutta @academicmargin and Prof. Chandan Narayan for a fantastic discussion on language science fundamentals, what constitutes ling data, and much more!\nSpotify: https://open.spotify.com/episode/0wqHi4Dg53Co3CAgvBXYXn?si=FTPi14ypSte9COfVGzY3jw",
+      "url": "https://twitter.com/desiacadpod/status/2083765168840843584",
+      "timestamp": "",
+      "type": "tweet"
+    },
+    {
+      "text": "Ok, but how do you make people not freak out at the sight of them?",
+      "url": "https://twitter.com/desiacadpod/status/2093566042773618934",
+      "timestamp": "",
+      "type": "quote"
+    },
+    {
+      "text": "65 student suicides in last 5 years. There has to be no doubt that the accountability needs to be set, the system needs to be overhauled.",
+      "url": "https://twitter.com/desiacadpod/status/2093304447346565584",
+      "timestamp": "",
+      "type": "quote"
+    },
+    {
       "text": "https://x.com/desiacadpod/status/2091181097551868282/photo/1",
       "url": "https://twitter.com/desiacadpod/status/2091181097551868282",
       "timestamp": "",
@@ -19,12 +37,6 @@
       "type": "quote"
     },
     {
-      "text": "It's time for a new season! 🥳🥳\n\nFor E1, we are joined by friend-of-the-pod Prof. Indranil Dutta @academicmargin and Prof. Chandan Narayan for a fantastic discussion on language science fundamentals, what constitutes ling data, and much more!\nSpotify: https://open.spotify.com/episode/0wqHi4Dg53Co3CAgvBXYXn?si=FTPi14ypSte9COfVGzY3jw",
-      "url": "https://twitter.com/desiacadpod/status/2083765168840843584",
-      "timestamp": "",
-      "type": "tweet"
-    },
-    {
       "text": "In case you missed it, a new season…featuring linguistics! 👇",
       "url": "https://twitter.com/desiacadpod/status/2085694688485384380",
       "timestamp": "",
@@ -35,15 +47,9 @@
       "url": "https://twitter.com/desiacadpod/status/2015313113399091612",
       "timestamp": "",
       "type": "tweet"
-    },
-    {
-      "text": "Hān āp chūtiye hain. https://x.com/desiacadpod/status/2082975532132581552/photo/1",
-      "url": "https://twitter.com/desiacadpod/status/2082975532132581552",
-      "timestamp": "",
-      "type": "tweet"
     }
   ],
   "username": "desiacadpod",
-  "extracted_at": "2026-08-30T17:50:46.122873",
-  "count": 7
+  "extracted_at": "2026-08-30T17:54:30.900579",
+  "count": 8
 }
