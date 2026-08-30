@@ -532,31 +532,29 @@ button#plus30 {
   width: 100% !important;
 }
 
-/* Tweets container styling */
+/* Tweets container */
 #tweets-wrap {
+  width: 100%;
   max-width: 720px;
-  /* margin: 0 auto; */
+  margin: 0 auto;
   padding: 20px;
+  box-sizing: border-box;
 }
 
-/* Individual tweet styling */
+/* Twitter/X embeds */
 #tweets-wrap .twitter-tweet {
-  margin: 10px auto !important;
-  max-width: 650px !important;
-  width: 100% !important;
+  margin: 20px auto !important;
 }
 
-/* Desktop view for tweets */
+/* Desktop view */
 @media (min-width: 720px) {
   #tweets-wrap {
     max-width: 100%;
     padding: 40px;
-    width: 1024px;
   }
 
   #tweets-wrap .twitter-tweet {
     margin: 40px auto !important;
-    max-width: 800px !important;
   }
 }
 
