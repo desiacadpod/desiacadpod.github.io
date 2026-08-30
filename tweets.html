@@ -53,29 +53,35 @@
     </div>
     <!-- end pcwrap -->
 
-    <script>
-      // Load Twitter widget immediately when page loads
-      function loadTwitterWidget() {
-        if (window.twttr && window.twttr.widgets) {
-          window.twttr.widgets.load();
-          // Hide loading message once tweets are processed
-          const loadingMsg = document.getElementById('tweets-loading');
+      <script>
+        window.twttr = (function (d, s, id) {
+          var js,
+            fjs = d.getElementsByTagName(s)[0],
+            t = window.twttr || {};
+      
+          if (d.getElementById(id)) return t;
+      
+          js = d.createElement(s);
+          js.id = id;
+          js.src = "https://platform.twitter.com/widgets.js";
+          fjs.parentNode.insertBefore(js, fjs);
+      
+          t._e = [];
+          t.ready = function (f) {
+            t._e.push(f);
+          };
+      
+          return t;
+        })(document, "script", "twitter-wjs");
+      
+        twttr.ready(function (twttr) {
+          twttr.widgets.load();
+      
+          const loadingMsg = document.getElementById("tweets-loading");
           if (loadingMsg) {
-            loadingMsg.style.display = 'none';
+            loadingMsg.style.display = "none";
           }
-        }
-      }
-
-      // Try to load immediately when DOM is ready
-      if (document.readyState === 'loading') {
-        document.addEventListener('DOMContentLoaded', loadTwitterWidget);
-      } else {
-        loadTwitterWidget();
-      }
-
-      // Also try after window load as backup
-      window.addEventListener('load', loadTwitterWidget);
+        });
     </script>
-    <script defer src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   </body>
 </html>
