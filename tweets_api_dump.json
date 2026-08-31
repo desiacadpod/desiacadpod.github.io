@@ -1,12 +1,12 @@
 {
   "data": [
     {
-      "id": "2092763790462873812",
-      "conversationId": "2092763790462873812",
-      "text": "Having a graduate degree is an important marker of educational achievement, and is linked to greater access to more skilled and better-paying jobs.\n\nPeople who have completed an undergraduate programme are considered to be graduates. This also includes those enrolled in or have https://t.co/ScjikTRlms",
+      "id": "2083765168840843584",
+      "conversationId": "2083765168840843584",
+      "text": "It's time for a new season! 🥳🥳\n\nFor E1, we are joined by friend-of-the-pod Prof. Indranil Dutta @academicmargin and Prof. Chandan Narayan for a fantastic discussion on language science fundamentals, what constitutes ling data, and much more!\nSpotify: https://open.spotify.com/episode/0wqHi4Dg53Co3CAgvBXYXn?si=FTPi14ypSte9COfVGzY3jw",
       "displayTextRange": [
         0,
-        139
+        274
       ],
       "author": {
         "id": "1678804918080258048",
@@ -16,7 +16,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -42,12 +42,1523 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
+        "createdAt": "2023-07-11T16:34:57.000Z"
+      },
+      "source": "Twitter Web App",
+      "type": "tweet",
+      "replyTo": null,
+      "quotedTweet": null,
+      "reactionContext": null,
+      "retweetedTweet": null,
+      "likeCount": 7,
+      "retweetCount": 1,
+      "replyCount": 3,
+      "quoteCount": 1,
+      "bookmarkCount": 2,
+      "viewCount": 575,
+      "media": [],
+      "poll": null,
+      "card": {
+        "name": "summary",
+        "url": "https://t.co/NLywxB6Tna",
+        "cardType": "",
+        "type": "summary",
+        "bindingValues": {
+          "title": "S13E1: Linguistics 101 with Chandan and Indranil",
+          "description": "Desi Academia Podcast · Episode",
+          "domain": "open.spotify.com",
+          "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2093719902041628672/Sg0pjhOx?format=jpg&name=orig",
+          "thumbnailImageColor": null,
+          "playerUrl": null,
+          "playerWidth": null,
+          "playerHeight": null,
+          "appId": null,
+          "appName": null,
+          "appStarRating": null,
+          "appPriceAmount": null,
+          "appPriceCurrency": null
+        },
+        "cardPlatform": {
+          "platform": {
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            },
+            "audience": {
+              "name": "production"
+            }
+          }
+        },
+        "vanityUrl": "open.spotify.com",
+        "userRefsResults": [
+          {
+            "id": "17230018",
+            "username": "Spotify",
+            "name": "Spotify",
+            "bio": "squeezing in a few more summer anthems",
+            "location": null,
+            "website": "https://open.spotify.com/playlist/37i9dQZF1DWSYXDfndvXy2",
+            "pinnedTweetIds": [],
+            "avatar": "https://pbs.twimg.com/profile_images/1793315484961591301/DiEXUJEV_normal.jpg",
+            "banner": "https://pbs.twimg.com/profile_banners/17230018/1767711221/1500x500",
+            "profileImageShape": "Square",
+            "verified": false,
+            "isBlueVerified": true,
+            "verifiedType": null,
+            "verifiedSince": null,
+            "isIdentityVerified": false,
+            "isProtected": false,
+            "possiblySensitive": false,
+            "profileInterstitialType": null,
+            "withheldInCountries": [],
+            "professional": null,
+            "businessAccount": null,
+            "creatorSubscriptionsCount": 0,
+            "hasHiddenSubscriptions": false,
+            "highlightsInfo": null,
+            "hasGraduatedAccess": true,
+            "isProfileTranslatable": false,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "affiliatesHighlightedLabel": {},
+            "defaultProfile": false,
+            "defaultProfileImage": false,
+            "followerCount": 21709528,
+            "followingCount": 15578,
+            "tweetCount": 50886,
+            "listedCount": 16598,
+            "mediaCount": 11491,
+            "favoritesCount": 19083,
+            "createdAt": "2008-11-07T12:14:28.000Z"
+          }
+        ],
+        "imageUrl": "https://pbs.twimg.com/card_img/2093719902041628672/Sg0pjhOx?format=jpg&name=orig"
+      },
+      "article": null,
+      "hashtags": [],
+      "mentions": [
+        {
+          "id": "1481197459",
+          "username": "academicmargin",
+          "name": "Indranil Dutta"
+        }
+      ],
+      "urls": [
+        "https://open.spotify.com/episode/0wqHi4Dg53Co3CAgvBXYXn?si=FTPi14ypSte9COfVGzY3jw"
+      ],
+      "symbols": [],
+      "possiblySensitive": false,
+      "limitedActions": null,
+      "hasAIGeneratedMedia": false,
+      "isPaidPromotion": false,
+      "isEdited": false,
+      "editControl": null,
+      "isTranslatable": false,
+      "lang": "en",
+      "translatedText": null,
+      "hasBirdwatchNotes": false,
+      "birdwatchPivot": null,
+      "conversationControl": null,
+      "isPromoted": false,
+      "promotedMetadata": null,
+      "createdAt": "2026-08-02T04:01:45.000Z",
+      "place": null,
+      "communityId": null,
+      "communityResults": null
+    },
+    {
+      "id": "2094100333186224364",
+      "conversationId": "2083765168840843584",
+      "text": "@academicmargin S13E2 Apple Podcast:\nhttps://podcasts.apple.com/us/podcast/s13e2-linguistics-by-way-of-india-with-indranil/id1697173592?i=1000786838361",
+      "displayTextRange": [
+        16,
+        60
+      ],
+      "author": {
+        "id": "1678804918080258048",
+        "username": "desiacadpod",
+        "name": "Desi Academia Podcast",
+        "bio": "Tune in to conversations with South Asian knowledge-creators about academic life, research, politics, and survival !\n🗣️🧑‍💻🔬📖📊🇮🇳🌈\n\ndesiacadpod on 🦋",
+        "location": null,
+        "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
+        "pinnedTweetIds": [
+          "2094100242278826373"
+        ],
+        "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
+        "banner": null,
+        "profileImageShape": "Circle",
+        "verified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "verifiedSince": null,
+        "isIdentityVerified": false,
+        "isProtected": false,
+        "possiblySensitive": false,
+        "profileInterstitialType": null,
+        "withheldInCountries": [],
+        "professional": null,
+        "businessAccount": null,
+        "creatorSubscriptionsCount": 0,
+        "hasHiddenSubscriptions": false,
+        "highlightsInfo": null,
+        "hasGraduatedAccess": true,
+        "isProfileTranslatable": false,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "affiliatesHighlightedLabel": {},
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
+        "listedCount": 3,
+        "mediaCount": 91,
+        "favoritesCount": 898,
+        "createdAt": "2023-07-11T16:34:57.000Z"
+      },
+      "source": "Twitter Web App",
+      "type": "reply",
+      "replyTo": {
+        "tweetId": "2083765168840843584",
+        "userId": "1678804918080258048",
+        "username": "desiacadpod"
+      },
+      "quotedTweet": null,
+      "reactionContext": null,
+      "retweetedTweet": null,
+      "likeCount": 0,
+      "retweetCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "bookmarkCount": 0,
+      "viewCount": 9,
+      "media": [],
+      "poll": null,
+      "card": {
+        "name": "summary",
+        "url": "https://t.co/MZc5JFqlOG",
+        "cardType": "",
+        "type": "summary",
+        "bindingValues": {
+          "title": "S13E2: Linguistics by way of India with Indranil, Charlie, and Remo",
+          "description": "Podcast Episode · Desi Academia Podcast · August 30 · 2h 1m",
+          "domain": "podcasts.apple.com",
+          "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2093982131324088321/FDo7skYP?format=jpg&name=orig",
+          "thumbnailImageColor": null,
+          "playerUrl": null,
+          "playerWidth": null,
+          "playerHeight": null,
+          "appId": null,
+          "appName": null,
+          "appStarRating": null,
+          "appPriceAmount": null,
+          "appPriceCurrency": null
+        },
+        "cardPlatform": {
+          "platform": {
+            "device": {
+              "name": "Swift",
+              "version": "12"
+            },
+            "audience": {
+              "name": "production"
+            }
+          }
+        },
+        "vanityUrl": "podcasts.apple.com",
+        "userRefsResults": [
+          {
+            "id": "48436234",
+            "username": "ApplePodcasts",
+            "name": "Apple Podcasts",
+            "bio": "The home of your next favorite podcasts and a place to get more access to the creators behind them.",
+            "location": "Cupertino, CA",
+            "website": "http://apple.co/podcasts",
+            "pinnedTweetIds": [
+              "2036556184220737788"
+            ],
+            "avatar": "https://pbs.twimg.com/profile_images/2039132380691419136/kKeVXQjG_normal.jpg",
+            "banner": "https://pbs.twimg.com/profile_banners/48436234/1775690459/1500x500",
+            "profileImageShape": "Square",
+            "verified": false,
+            "isBlueVerified": false,
+            "verifiedType": null,
+            "verifiedSince": null,
+            "isIdentityVerified": false,
+            "isProtected": false,
+            "possiblySensitive": false,
+            "profileInterstitialType": null,
+            "withheldInCountries": [],
+            "professional": null,
+            "businessAccount": null,
+            "creatorSubscriptionsCount": 0,
+            "hasHiddenSubscriptions": false,
+            "highlightsInfo": null,
+            "hasGraduatedAccess": true,
+            "isProfileTranslatable": false,
+            "hasCustomTimelines": true,
+            "isTranslator": false,
+            "affiliatesHighlightedLabel": {},
+            "defaultProfile": false,
+            "defaultProfileImage": false,
+            "followerCount": 591874,
+            "followingCount": 1934,
+            "tweetCount": 9240,
+            "listedCount": 4802,
+            "mediaCount": 5232,
+            "favoritesCount": 2982,
+            "createdAt": "2009-06-18T18:13:59.000Z"
+          }
+        ],
+        "imageUrl": "https://pbs.twimg.com/card_img/2093982131324088321/FDo7skYP?format=jpg&name=orig"
+      },
+      "article": null,
+      "hashtags": [],
+      "mentions": [
+        {
+          "id": "1481197459",
+          "username": "academicmargin",
+          "name": "Indranil Dutta"
+        }
+      ],
+      "urls": [
+        "https://podcasts.apple.com/us/podcast/s13e2-linguistics-by-way-of-india-with-indranil/id1697173592?i=1000786838361"
+      ],
+      "symbols": [],
+      "possiblySensitive": false,
+      "limitedActions": null,
+      "hasAIGeneratedMedia": false,
+      "isPaidPromotion": false,
+      "isEdited": false,
+      "editControl": null,
+      "isTranslatable": false,
+      "lang": "en",
+      "translatedText": null,
+      "hasBirdwatchNotes": false,
+      "birdwatchPivot": null,
+      "conversationControl": null,
+      "isPromoted": false,
+      "promotedMetadata": null,
+      "createdAt": "2026-08-30T16:30:00.000Z",
+      "place": null,
+      "communityId": null,
+      "communityResults": null
+    },
+    {
+      "id": "2094100242278826373",
+      "conversationId": "2083765168840843584",
+      "text": "@academicmargin New episode alert! Co-hosted by Indranil\n@academicmargin\nand feat. Remo and Charlie, we discuss the impact of India on our linguistics careers, the field's glories and controversies, the Sapir Worf Hypothesis, Chomsky,the Bouba/Kiki effect, and much more!\nhttps://open.spotify.com/episode/1zHuFeBhD9Yad01uPwbmy4",
+      "displayTextRange": [
+        16,
+        295
+      ],
+      "author": {
+        "id": "1678804918080258048",
+        "username": "desiacadpod",
+        "name": "Desi Academia Podcast",
+        "bio": "Tune in to conversations with South Asian knowledge-creators about academic life, research, politics, and survival !\n🗣️🧑‍💻🔬📖📊🇮🇳🌈\n\ndesiacadpod on 🦋",
+        "location": null,
+        "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
+        "pinnedTweetIds": [
+          "2094100242278826373"
+        ],
+        "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
+        "banner": null,
+        "profileImageShape": "Circle",
+        "verified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "verifiedSince": null,
+        "isIdentityVerified": false,
+        "isProtected": false,
+        "possiblySensitive": false,
+        "profileInterstitialType": null,
+        "withheldInCountries": [],
+        "professional": null,
+        "businessAccount": null,
+        "creatorSubscriptionsCount": 0,
+        "hasHiddenSubscriptions": false,
+        "highlightsInfo": null,
+        "hasGraduatedAccess": true,
+        "isProfileTranslatable": false,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "affiliatesHighlightedLabel": {},
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
+        "listedCount": 3,
+        "mediaCount": 91,
+        "favoritesCount": 898,
+        "createdAt": "2023-07-11T16:34:57.000Z"
+      },
+      "source": "Twitter Web App",
+      "type": "reply",
+      "replyTo": {
+        "tweetId": "2083765168840843584",
+        "userId": "1678804918080258048",
+        "username": "desiacadpod"
+      },
+      "quotedTweet": null,
+      "reactionContext": null,
+      "retweetedTweet": null,
+      "likeCount": 0,
+      "retweetCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "bookmarkCount": 0,
+      "viewCount": 20,
+      "media": [],
+      "poll": null,
+      "card": {
+        "name": "",
+        "url": "",
+        "cardType": "",
+        "type": "summary",
+        "bindingValues": {
+          "title": "",
+          "description": "",
+          "domain": "",
+          "thumbnailImageUrl": null,
+          "thumbnailImageColor": null,
+          "playerUrl": null,
+          "playerWidth": null,
+          "playerHeight": null,
+          "appId": null,
+          "appName": null,
+          "appStarRating": null,
+          "appPriceAmount": null,
+          "appPriceCurrency": null
+        },
+        "cardPlatform": {
+          "platform": {
+            "device": {
+              "name": "",
+              "version": ""
+            },
+            "audience": {
+              "name": ""
+            }
+          }
+        },
+        "vanityUrl": null,
+        "userRefsResults": null
+      },
+      "article": null,
+      "hashtags": [],
+      "mentions": [
+        {
+          "id": "1481197459",
+          "username": "academicmargin",
+          "name": "Indranil Dutta"
+        },
+        {
+          "id": "1481197459",
+          "username": "academicmargin",
+          "name": "Indranil Dutta"
+        }
+      ],
+      "urls": [
+        "https://open.spotify.com/episode/1zHuFeBhD9Yad01uPwbmy4"
+      ],
+      "symbols": [],
+      "possiblySensitive": false,
+      "limitedActions": null,
+      "hasAIGeneratedMedia": false,
+      "isPaidPromotion": false,
+      "isEdited": false,
+      "editControl": null,
+      "isTranslatable": false,
+      "lang": "en",
+      "translatedText": null,
+      "hasBirdwatchNotes": false,
+      "birdwatchPivot": null,
+      "conversationControl": null,
+      "isPromoted": false,
+      "promotedMetadata": null,
+      "createdAt": "2026-08-30T16:29:38.000Z",
+      "place": null,
+      "communityId": null,
+      "communityResults": null
+    },
+    {
+      "id": "2093567489279947012",
+      "conversationId": "2093567489279947012",
+      "text": "me and the girls entering the academic job market https://x.com/weiss_hadas/status/2092963422124056582/video/1",
+      "displayTextRange": [
+        0,
+        90
+      ],
+      "author": {
+        "id": "1678804918080258048",
+        "username": "desiacadpod",
+        "name": "Desi Academia Podcast",
+        "bio": "Tune in to conversations with South Asian knowledge-creators about academic life, research, politics, and survival !\n🗣️🧑‍💻🔬📖📊🇮🇳🌈\n\ndesiacadpod on 🦋",
+        "location": null,
+        "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
+        "pinnedTweetIds": [
+          "2094100242278826373"
+        ],
+        "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
+        "banner": null,
+        "profileImageShape": "Circle",
+        "verified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "verifiedSince": null,
+        "isIdentityVerified": false,
+        "isProtected": false,
+        "possiblySensitive": false,
+        "profileInterstitialType": null,
+        "withheldInCountries": [],
+        "professional": null,
+        "businessAccount": null,
+        "creatorSubscriptionsCount": 0,
+        "hasHiddenSubscriptions": false,
+        "highlightsInfo": null,
+        "hasGraduatedAccess": true,
+        "isProfileTranslatable": false,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "affiliatesHighlightedLabel": {},
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
+        "listedCount": 3,
+        "mediaCount": 91,
+        "favoritesCount": 898,
+        "createdAt": "2023-07-11T16:34:57.000Z"
+      },
+      "source": "Twitter Web App",
+      "type": "retweet",
+      "replyTo": null,
+      "quotedTweet": null,
+      "reactionContext": null,
+      "retweetedTweet": {
+        "id": "2092963422124056582",
+        "conversationId": "2092963422124056582",
+        "text": "me and the girls entering the academic job market https://x.com/weiss_hadas/status/2092963422124056582/video/1",
+        "displayTextRange": [
+          0,
+          49
+        ],
+        "author": {
+          "id": "837765044016398336",
+          "username": "weiss_hadas",
+          "name": "Hadas Weiss",
+          "bio": "\"I used to be just like you before I started going to therapy\"\n\nThe Wayward Anthropologist coming April 2027",
+          "location": "Lisbon, Portugal",
+          "website": null,
+          "pinnedTweetIds": [
+            "2070553780056211621"
+          ],
+          "avatar": "https://pbs.twimg.com/profile_images/986517212562427904/29M8SRyY_normal.jpg",
+          "banner": "https://pbs.twimg.com/profile_banners/837765044016398336/1512908379/1500x500",
+          "profileImageShape": "Circle",
+          "verified": false,
+          "isBlueVerified": false,
+          "verifiedType": null,
+          "verifiedSince": null,
+          "isIdentityVerified": false,
+          "isProtected": false,
+          "possiblySensitive": false,
+          "profileInterstitialType": null,
+          "withheldInCountries": [],
+          "professional": null,
+          "businessAccount": null,
+          "creatorSubscriptionsCount": 0,
+          "hasHiddenSubscriptions": false,
+          "highlightsInfo": null,
+          "hasGraduatedAccess": true,
+          "isProfileTranslatable": false,
+          "hasCustomTimelines": false,
+          "isTranslator": false,
+          "affiliatesHighlightedLabel": {},
+          "defaultProfile": true,
+          "defaultProfileImage": false,
+          "followerCount": 15841,
+          "followingCount": 8531,
+          "tweetCount": 7720,
+          "listedCount": 42,
+          "mediaCount": 1647,
+          "favoritesCount": 29500,
+          "createdAt": "2017-03-03T20:42:06.000Z"
+        },
+        "source": "Twitter Web App",
+        "type": "tweet",
+        "replyTo": null,
+        "quotedTweet": null,
+        "reactionContext": null,
+        "retweetedTweet": null,
+        "likeCount": 497,
+        "retweetCount": 32,
+        "replyCount": 7,
+        "quoteCount": 4,
+        "bookmarkCount": 26,
+        "viewCount": 13856,
+        "media": [
+          {
+            "id": "2092963327378919424",
+            "key": "13_2092963327378919424",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2092963327378919424/vid/avc1/1280x720/Kqv8SC7Yl3Gc-Ztm.mp4?tag=14",
+            "displayUrl": "pic.x.com/rp1wmXIGug",
+            "expandedUrl": "https://x.com/weiss_hadas/status/2092963422124056582/video/1",
+            "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2092963327378919424/img/bdrSs0tN7Hn6FrwF.jpg",
+            "width": 1280,
+            "height": 720,
+            "aspectRatio": [
+              16,
+              9
+            ],
+            "sizes": {
+              "thumb": {
+                "width": 150,
+                "height": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "width": 680,
+                "height": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "width": 1200,
+                "height": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "width": 1280,
+                "height": 720,
+                "resize": "fit"
+              },
+              "original": {
+                "width": 1280,
+                "height": 720,
+                "resize": "fit"
+              }
+            },
+            "duration": 17,
+            "bitrate": null,
+            "videoInfo": {
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "contentType": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2092963327378919424/pl/KPhPrONj_N3_ix_x.m3u8?tag=14&v=3a5"
+                },
+                {
+                  "bitrate": 288000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2092963327378919424/vid/avc1/480x270/TK_V48s8XU2H_iOm.mp4?tag=14"
+                },
+                {
+                  "bitrate": 832000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2092963327378919424/vid/avc1/640x360/_sN4kKs0B3_tJhkw.mp4?tag=14"
+                },
+                {
+                  "bitrate": 2176000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2092963327378919424/vid/avc1/1280x720/Kqv8SC7Yl3Gc-Ztm.mp4?tag=14"
+                }
+              ],
+              "durationMillis": 17298
+            },
+            "altText": null,
+            "sensitiveMedia": false,
+            "features": {
+              "all": [],
+              "large": [],
+              "medium": [],
+              "small": [],
+              "orig": [
+                {
+                  "faces": []
+                }
+              ]
+            },
+            "mediaAvailability": {
+              "status": "Available",
+              "reason": null
+            },
+            "allowDownload": true,
+            "mediaStats": null,
+            "processingInfo": null,
+            "sourceStatusId": null,
+            "sourceUserId": null,
+            "stickers": null
+          }
+        ],
+        "poll": null,
+        "card": null,
+        "article": null,
+        "hashtags": [],
+        "mentions": [],
+        "urls": [],
+        "symbols": [],
+        "possiblySensitive": false,
+        "limitedActions": null,
+        "hasAIGeneratedMedia": false,
+        "isPaidPromotion": false,
+        "isEdited": false,
+        "editControl": null,
+        "isTranslatable": false,
+        "lang": "en",
+        "translatedText": null,
+        "hasBirdwatchNotes": false,
+        "birdwatchPivot": null,
+        "conversationControl": null,
+        "isPromoted": false,
+        "promotedMetadata": null,
+        "createdAt": "2026-08-27T13:12:19.000Z",
+        "place": null,
+        "communityId": null,
+        "communityResults": null
+      },
+      "likeCount": 0,
+      "retweetCount": 32,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "bookmarkCount": 0,
+      "viewCount": 3,
+      "media": [
+        {
+          "id": "2092963327378919424",
+          "key": "13_2092963327378919424",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2092963327378919424/vid/avc1/1280x720/Kqv8SC7Yl3Gc-Ztm.mp4?tag=14",
+          "displayUrl": "pic.x.com/rp1wmXIGug",
+          "expandedUrl": "https://x.com/weiss_hadas/status/2092963422124056582/video/1",
+          "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2092963327378919424/img/bdrSs0tN7Hn6FrwF.jpg",
+          "width": 1280,
+          "height": 720,
+          "aspectRatio": [
+            16,
+            9
+          ],
+          "sizes": {
+            "thumb": {
+              "width": 150,
+              "height": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "width": 680,
+              "height": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "width": 1200,
+              "height": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "width": 1280,
+              "height": 720,
+              "resize": "fit"
+            },
+            "original": {
+              "width": 1280,
+              "height": 720,
+              "resize": "fit"
+            }
+          },
+          "duration": 17,
+          "bitrate": null,
+          "videoInfo": {
+            "variants": [
+              {
+                "bitrate": 0,
+                "contentType": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2092963327378919424/pl/KPhPrONj_N3_ix_x.m3u8?tag=14&v=3a5"
+              },
+              {
+                "bitrate": 288000,
+                "contentType": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2092963327378919424/vid/avc1/480x270/TK_V48s8XU2H_iOm.mp4?tag=14"
+              },
+              {
+                "bitrate": 832000,
+                "contentType": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2092963327378919424/vid/avc1/640x360/_sN4kKs0B3_tJhkw.mp4?tag=14"
+              },
+              {
+                "bitrate": 2176000,
+                "contentType": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2092963327378919424/vid/avc1/1280x720/Kqv8SC7Yl3Gc-Ztm.mp4?tag=14"
+              }
+            ],
+            "durationMillis": 17298
+          },
+          "altText": null,
+          "sensitiveMedia": false,
+          "features": {
+            "all": [],
+            "large": [],
+            "medium": [],
+            "small": [],
+            "orig": [
+              {
+                "faces": []
+              }
+            ]
+          },
+          "mediaAvailability": {
+            "status": "Available",
+            "reason": null
+          },
+          "allowDownload": true,
+          "mediaStats": null,
+          "processingInfo": null,
+          "sourceStatusId": "2092963422124056582",
+          "sourceUserId": "837765044016398336",
+          "stickers": null
+        }
+      ],
+      "poll": null,
+      "card": null,
+      "article": null,
+      "hashtags": [],
+      "mentions": [
+        {
+          "id": "837765044016398336",
+          "username": "weiss_hadas",
+          "name": "Hadas Weiss"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "possiblySensitive": false,
+      "limitedActions": null,
+      "hasAIGeneratedMedia": false,
+      "isPaidPromotion": false,
+      "isEdited": false,
+      "editControl": null,
+      "isTranslatable": false,
+      "lang": "en",
+      "translatedText": null,
+      "hasBirdwatchNotes": false,
+      "birdwatchPivot": null,
+      "conversationControl": null,
+      "isPromoted": false,
+      "promotedMetadata": null,
+      "createdAt": "2026-08-29T05:12:40.000Z",
+      "place": null,
+      "communityId": null,
+      "communityResults": null
+    },
+    {
+      "id": "2093566042773618934",
+      "conversationId": "2093566042773618934",
+      "text": "Ok, but how do you make people not freak out at the sight of them?",
+      "displayTextRange": [
+        0,
+        66
+      ],
+      "author": {
+        "id": "1678804918080258048",
+        "username": "desiacadpod",
+        "name": "Desi Academia Podcast",
+        "bio": "Tune in to conversations with South Asian knowledge-creators about academic life, research, politics, and survival !\n🗣️🧑‍💻🔬📖📊🇮🇳🌈\n\ndesiacadpod on 🦋",
+        "location": null,
+        "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
+        "pinnedTweetIds": [
+          "2094100242278826373"
+        ],
+        "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
+        "banner": null,
+        "profileImageShape": "Circle",
+        "verified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "verifiedSince": null,
+        "isIdentityVerified": false,
+        "isProtected": false,
+        "possiblySensitive": false,
+        "profileInterstitialType": null,
+        "withheldInCountries": [],
+        "professional": null,
+        "businessAccount": null,
+        "creatorSubscriptionsCount": 0,
+        "hasHiddenSubscriptions": false,
+        "highlightsInfo": null,
+        "hasGraduatedAccess": true,
+        "isProfileTranslatable": false,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "affiliatesHighlightedLabel": {},
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
+        "listedCount": 3,
+        "mediaCount": 91,
+        "favoritesCount": 898,
+        "createdAt": "2023-07-11T16:34:57.000Z"
+      },
+      "source": "Twitter Web App",
+      "type": "quote",
+      "replyTo": null,
+      "quotedTweet": {
+        "id": "2093341582946693224",
+        "conversationId": "2093341582946693224",
+        "text": "University of Queensland scientists have created cyborg cockroaches, dubbed 'paraborgs,' fitted with injectors and cameras could join search-and-rescue teams to deliver lifesaving drugs to people trapped after disasters https://reut.rs/46wL6J6 https://x.com/ReutersScience/status/2093341582946693224/video/1",
+        "displayTextRange": [
+          0,
+          243
+        ],
+        "author": {
+          "id": "15110431",
+          "username": "ReutersScience",
+          "name": "Reuters Science News",
+          "bio": "From newly charted astronomical anomalies at the far reaches of the universe to the rise of nanotechnology, nobody covers science like http://t.co/RtkLii8CUo.",
+          "location": null,
+          "website": "http://www.reuters.com/news/science",
+          "pinnedTweetIds": [],
+          "avatar": "https://pbs.twimg.com/profile_images/1151221802435325953/72h20MPM_normal.jpg",
+          "banner": "https://pbs.twimg.com/profile_banners/15110431/1621870096/1500x500",
+          "profileImageShape": "Circle",
+          "verified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "verifiedSince": null,
+          "isIdentityVerified": false,
+          "isProtected": false,
+          "possiblySensitive": false,
+          "profileInterstitialType": null,
+          "withheldInCountries": [],
+          "professional": null,
+          "businessAccount": null,
+          "creatorSubscriptionsCount": 0,
+          "hasHiddenSubscriptions": false,
+          "highlightsInfo": null,
+          "hasGraduatedAccess": true,
+          "isProfileTranslatable": false,
+          "hasCustomTimelines": true,
+          "isTranslator": false,
+          "affiliatesHighlightedLabel": {},
+          "defaultProfile": false,
+          "defaultProfileImage": false,
+          "followerCount": 1287893,
+          "followingCount": 18,
+          "tweetCount": 80308,
+          "listedCount": 13622,
+          "mediaCount": 22330,
+          "favoritesCount": 0,
+          "createdAt": "2008-06-13T19:04:44.000Z"
+        },
+        "source": "Twitter Media Studio",
+        "type": "tweet",
+        "replyTo": null,
+        "quotedTweet": null,
+        "reactionContext": null,
+        "retweetedTweet": null,
+        "likeCount": 35,
+        "retweetCount": 6,
+        "replyCount": 2,
+        "quoteCount": 4,
+        "bookmarkCount": 8,
+        "viewCount": 16133,
+        "media": [
+          {
+            "id": "2093322065227173888",
+            "key": "13_2093322065227173888",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2093322065227173888/vid/avc1/1920x1080/05HiX3FPaAYhtCnG.mp4?tag=29",
+            "displayUrl": "pic.x.com/9JZbI4WoVw",
+            "expandedUrl": "https://x.com/ReutersScience/status/2093341582946693224/video/1",
+            "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2093322065227173888/img/cVy2WJDB1bdY83pa.jpg",
+            "width": 1920,
+            "height": 1080,
+            "aspectRatio": [
+              16,
+              9
+            ],
+            "sizes": {
+              "thumb": {
+                "width": 150,
+                "height": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "width": 680,
+                "height": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "width": 1200,
+                "height": 675,
+                "resize": "fit"
+              },
+              "large": {
+                "width": 1920,
+                "height": 1080,
+                "resize": "fit"
+              },
+              "original": {
+                "width": 1920,
+                "height": 1080,
+                "resize": "fit"
+              }
+            },
+            "duration": 113,
+            "bitrate": null,
+            "videoInfo": {
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "contentType": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2093322065227173888/pl/CZ7aGK6UpyLDDVfZ.m3u8?tag=29&v=9fa"
+                },
+                {
+                  "bitrate": 256000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2093322065227173888/vid/avc1/480x270/kzBF2-gLPDkG3l2X.mp4?tag=29"
+                },
+                {
+                  "bitrate": 832000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2093322065227173888/vid/avc1/640x360/tR2SrqVPT_G93AqH.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2093322065227173888/vid/avc1/1280x720/9DeHCDOLGneC68x1.mp4?tag=29"
+                },
+                {
+                  "bitrate": 10368000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2093322065227173888/vid/avc1/1920x1080/05HiX3FPaAYhtCnG.mp4?tag=29"
+                }
+              ],
+              "durationMillis": 112560
+            },
+            "altText": null,
+            "sensitiveMedia": false,
+            "features": {
+              "all": [],
+              "large": [],
+              "medium": [],
+              "small": [],
+              "orig": [
+                {
+                  "faces": []
+                }
+              ]
+            },
+            "mediaAvailability": {
+              "status": "Available",
+              "reason": null
+            },
+            "allowDownload": true,
+            "mediaStats": null,
+            "processingInfo": null,
+            "sourceStatusId": null,
+            "sourceUserId": null,
+            "stickers": null
+          }
+        ],
+        "poll": null,
+        "card": null,
+        "article": null,
+        "hashtags": [],
+        "mentions": [],
+        "urls": [
+          "https://reut.rs/46wL6J6"
+        ],
+        "symbols": [],
+        "possiblySensitive": false,
+        "limitedActions": null,
+        "hasAIGeneratedMedia": false,
+        "isPaidPromotion": false,
+        "isEdited": false,
+        "editControl": null,
+        "isTranslatable": false,
+        "lang": "en",
+        "translatedText": null,
+        "hasBirdwatchNotes": false,
+        "birdwatchPivot": null,
+        "conversationControl": null,
+        "isPromoted": false,
+        "promotedMetadata": null,
+        "createdAt": "2026-08-28T14:15:00.000Z",
+        "place": null,
+        "communityId": null,
+        "communityResults": null
+      },
+      "reactionContext": null,
+      "retweetedTweet": null,
+      "likeCount": 5,
+      "retweetCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "bookmarkCount": 0,
+      "viewCount": 211,
+      "media": [],
+      "poll": null,
+      "card": null,
+      "article": null,
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "symbols": [],
+      "possiblySensitive": false,
+      "limitedActions": null,
+      "hasAIGeneratedMedia": false,
+      "isPaidPromotion": false,
+      "isEdited": false,
+      "editControl": null,
+      "isTranslatable": false,
+      "lang": "en",
+      "translatedText": null,
+      "hasBirdwatchNotes": false,
+      "birdwatchPivot": null,
+      "conversationControl": null,
+      "isPromoted": false,
+      "promotedMetadata": null,
+      "createdAt": "2026-08-29T05:06:55.000Z",
+      "place": null,
+      "communityId": null,
+      "communityResults": null
+    },
+    {
+      "id": "2093304447346565584",
+      "conversationId": "2093304447346565584",
+      "text": "65 student suicides in last 5 years. There has to be no doubt that the accountability needs to be set, the system needs to be overhauled.",
+      "displayTextRange": [
+        0,
+        137
+      ],
+      "author": {
+        "id": "1678804918080258048",
+        "username": "desiacadpod",
+        "name": "Desi Academia Podcast",
+        "bio": "Tune in to conversations with South Asian knowledge-creators about academic life, research, politics, and survival !\n🗣️🧑‍💻🔬📖📊🇮🇳🌈\n\ndesiacadpod on 🦋",
+        "location": null,
+        "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
+        "pinnedTweetIds": [
+          "2094100242278826373"
+        ],
+        "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
+        "banner": null,
+        "profileImageShape": "Circle",
+        "verified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "verifiedSince": null,
+        "isIdentityVerified": false,
+        "isProtected": false,
+        "possiblySensitive": false,
+        "profileInterstitialType": null,
+        "withheldInCountries": [],
+        "professional": null,
+        "businessAccount": null,
+        "creatorSubscriptionsCount": 0,
+        "hasHiddenSubscriptions": false,
+        "highlightsInfo": null,
+        "hasGraduatedAccess": true,
+        "isProfileTranslatable": false,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "affiliatesHighlightedLabel": {},
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
+        "listedCount": 3,
+        "mediaCount": 91,
+        "favoritesCount": 898,
+        "createdAt": "2023-07-11T16:34:57.000Z"
+      },
+      "source": "Twitter for iPhone",
+      "type": "quote",
+      "replyTo": null,
+      "quotedTweet": {
+        "id": "2093056565108670936",
+        "conversationId": "2093056565108670936",
+        "text": "At midnight, IIT Delhi students raised a powerful call:\n\n“Professor bahar aao, aao hamara saath do!”\n\nA call for their professors to stand with them in solidarity and support their fight for #JusticeForRishikesh.\n@iitdelhi @TheNewspinch @the_hindu @IndianExpress https://x.com/VoiceofIITD/status/2093056565108670936/video/1",
+        "displayTextRange": [
+          0,
+          262
+        ],
+        "author": {
+          "id": "1666891872470720512",
+          "username": "VoiceofIITD",
+          "name": "Voice Of IITD",
+          "bio": "We are the voice of IITD students.",
+          "location": null,
+          "website": null,
+          "pinnedTweetIds": [],
+          "avatar": "https://pbs.twimg.com/profile_images/1679049238393794560/SS6sqx6C_normal.jpg",
+          "banner": null,
+          "profileImageShape": "Circle",
+          "verified": false,
+          "isBlueVerified": true,
+          "verifiedType": null,
+          "verifiedSince": null,
+          "isIdentityVerified": false,
+          "isProtected": false,
+          "possiblySensitive": false,
+          "profileInterstitialType": null,
+          "withheldInCountries": [],
+          "professional": null,
+          "businessAccount": null,
+          "creatorSubscriptionsCount": 0,
+          "hasHiddenSubscriptions": false,
+          "highlightsInfo": null,
+          "hasGraduatedAccess": true,
+          "isProfileTranslatable": false,
+          "hasCustomTimelines": false,
+          "isTranslator": false,
+          "affiliatesHighlightedLabel": {},
+          "defaultProfile": true,
+          "defaultProfileImage": false,
+          "followerCount": 369,
+          "followingCount": 11,
+          "tweetCount": 120,
+          "listedCount": 1,
+          "mediaCount": 31,
+          "favoritesCount": 113,
+          "createdAt": "2023-06-08T19:36:27.000Z"
+        },
+        "source": "Twitter for Android",
+        "type": "tweet",
+        "replyTo": null,
+        "quotedTweet": null,
+        "reactionContext": null,
+        "retweetedTweet": null,
+        "likeCount": 1810,
+        "retweetCount": 473,
+        "replyCount": 40,
+        "quoteCount": 41,
+        "bookmarkCount": 67,
+        "viewCount": 401269,
+        "media": [
+          {
+            "id": "2093056513917190144",
+            "key": "13_2093056513917190144",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2093056513917190144/vid/avc1/720x1280/UrtSYytTQe3itruI.mp4?tag=29",
+            "displayUrl": "pic.x.com/KOw4OgiiWF",
+            "expandedUrl": "https://x.com/VoiceofIITD/status/2093056565108670936/video/1",
+            "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2093056513917190144/img/t1jd1ubNe9HPUCp4.jpg",
+            "width": 720,
+            "height": 1280,
+            "aspectRatio": [
+              9,
+              16
+            ],
+            "sizes": {
+              "thumb": {
+                "width": 150,
+                "height": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "width": 383,
+                "height": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "width": 675,
+                "height": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "width": 720,
+                "height": 1280,
+                "resize": "fit"
+              },
+              "original": {
+                "width": 720,
+                "height": 1280,
+                "resize": "fit"
+              }
+            },
+            "duration": 23,
+            "bitrate": null,
+            "videoInfo": {
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "contentType": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2093056513917190144/pl/x7kmTidH3cIPYu0W.m3u8?tag=29&v=cfc"
+                },
+                {
+                  "bitrate": 632000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2093056513917190144/vid/avc1/320x568/wYfTUDiWY4kNvz_o.mp4?tag=29"
+                },
+                {
+                  "bitrate": 950000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2093056513917190144/vid/avc1/480x852/BiB2zfa9PFWOS6RV.mp4?tag=29"
+                },
+                {
+                  "bitrate": 2176000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2093056513917190144/vid/avc1/720x1280/UrtSYytTQe3itruI.mp4?tag=29"
+                }
+              ],
+              "durationMillis": 23166
+            },
+            "altText": null,
+            "sensitiveMedia": false,
+            "features": {
+              "all": [],
+              "large": [],
+              "medium": [],
+              "small": [],
+              "orig": [
+                {
+                  "faces": []
+                }
+              ]
+            },
+            "mediaAvailability": {
+              "status": "Available",
+              "reason": null
+            },
+            "allowDownload": true,
+            "mediaStats": null,
+            "processingInfo": null,
+            "sourceStatusId": null,
+            "sourceUserId": null,
+            "stickers": null
+          },
+          {
+            "id": "2093056544594354176",
+            "key": "13_2093056544594354176",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2093056544594354176/vid/avc1/476x848/PXV5jhAFHZY1sA_Z.mp4?tag=29",
+            "displayUrl": "pic.x.com/KOw4OgiiWF",
+            "expandedUrl": "https://x.com/VoiceofIITD/status/2093056565108670936/video/1",
+            "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2093056544594354176/img/jD63bpQIkj-SuaPB.jpg",
+            "width": 476,
+            "height": 848,
+            "aspectRatio": [
+              119,
+              212
+            ],
+            "sizes": {
+              "thumb": {
+                "width": 150,
+                "height": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "width": 382,
+                "height": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "width": 476,
+                "height": 848,
+                "resize": "fit"
+              },
+              "large": {
+                "width": 476,
+                "height": 848,
+                "resize": "fit"
+              },
+              "original": {
+                "width": 476,
+                "height": 848,
+                "resize": "fit"
+              }
+            },
+            "duration": 7,
+            "bitrate": null,
+            "videoInfo": {
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "contentType": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/amplify_video/2093056544594354176/pl/YlQu6R7J0bfJseP8.m3u8?tag=29"
+                },
+                {
+                  "bitrate": 632000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2093056544594354176/vid/avc1/320x570/VSs8EmSZll8cIbbT.mp4?tag=29"
+                },
+                {
+                  "bitrate": 950000,
+                  "contentType": "video/mp4",
+                  "url": "https://video.twimg.com/amplify_video/2093056544594354176/vid/avc1/476x848/PXV5jhAFHZY1sA_Z.mp4?tag=29"
+                }
+              ],
+              "durationMillis": 6793
+            },
+            "altText": null,
+            "sensitiveMedia": false,
+            "features": {
+              "all": [],
+              "large": [],
+              "medium": [],
+              "small": [],
+              "orig": [
+                {
+                  "faces": []
+                }
+              ]
+            },
+            "mediaAvailability": {
+              "status": "Available",
+              "reason": null
+            },
+            "allowDownload": true,
+            "mediaStats": null,
+            "processingInfo": null,
+            "sourceStatusId": null,
+            "sourceUserId": null,
+            "stickers": null
+          }
+        ],
+        "poll": null,
+        "card": null,
+        "article": null,
+        "hashtags": [
+          "JusticeForRishikesh"
+        ],
+        "mentions": [
+          {
+            "id": "27686420",
+            "username": "iitdelhi",
+            "name": "IIT Delhi"
+          },
+          {
+            "id": "1917520199374217216",
+            "username": "TheNewspinch",
+            "name": "News Pinch"
+          },
+          {
+            "id": "20751449",
+            "username": "the_hindu",
+            "name": "The Hindu"
+          },
+          {
+            "id": "38647512",
+            "username": "IndianExpress",
+            "name": "The Indian Express"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "possiblySensitive": false,
+        "limitedActions": null,
+        "hasAIGeneratedMedia": false,
+        "isPaidPromotion": false,
+        "isEdited": false,
+        "editControl": null,
+        "isTranslatable": false,
+        "lang": "en",
+        "translatedText": null,
+        "hasBirdwatchNotes": false,
+        "birdwatchPivot": null,
+        "conversationControl": null,
+        "isPromoted": false,
+        "promotedMetadata": null,
+        "createdAt": "2026-08-27T19:22:26.000Z",
+        "place": null,
+        "communityId": null,
+        "communityResults": null
+      },
+      "reactionContext": null,
+      "retweetedTweet": null,
+      "likeCount": 8,
+      "retweetCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "bookmarkCount": 0,
+      "viewCount": 374,
+      "media": [],
+      "poll": null,
+      "card": null,
+      "article": null,
+      "hashtags": [],
+      "mentions": [],
+      "urls": [],
+      "symbols": [],
+      "possiblySensitive": false,
+      "limitedActions": null,
+      "hasAIGeneratedMedia": false,
+      "isPaidPromotion": false,
+      "isEdited": false,
+      "editControl": null,
+      "isTranslatable": false,
+      "lang": "en",
+      "translatedText": null,
+      "hasBirdwatchNotes": false,
+      "birdwatchPivot": null,
+      "conversationControl": null,
+      "isPromoted": false,
+      "promotedMetadata": null,
+      "createdAt": "2026-08-28T11:47:26.000Z",
+      "place": null,
+      "communityId": null,
+      "communityResults": null
+    },
+    {
+      "id": "2092763790462873812",
+      "conversationId": "2092763790462873812",
+      "text": "Having a graduate degree is an important marker of educational achievement, and is linked to greater access to more skilled and better-paying jobs.\n\nPeople who have completed an undergraduate programme are considered to be graduates. This also includes those enrolled in or have https://t.co/ScjikTRlms",
+      "displayTextRange": [
+        0,
+        139
+      ],
+      "author": {
+        "id": "1678804918080258048",
+        "username": "desiacadpod",
+        "name": "Desi Academia Podcast",
+        "bio": "Tune in to conversations with South Asian knowledge-creators about academic life, research, politics, and survival !\n🗣️🧑‍💻🔬📖📊🇮🇳🌈\n\ndesiacadpod on 🦋",
+        "location": null,
+        "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
+        "pinnedTweetIds": [
+          "2094100242278826373"
+        ],
+        "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
+        "banner": null,
+        "profileImageShape": "Circle",
+        "verified": false,
+        "isBlueVerified": false,
+        "verifiedType": null,
+        "verifiedSince": null,
+        "isIdentityVerified": false,
+        "isProtected": false,
+        "possiblySensitive": false,
+        "profileInterstitialType": null,
+        "withheldInCountries": [],
+        "professional": null,
+        "businessAccount": null,
+        "creatorSubscriptionsCount": 0,
+        "hasHiddenSubscriptions": false,
+        "highlightsInfo": null,
+        "hasGraduatedAccess": true,
+        "isProfileTranslatable": false,
+        "hasCustomTimelines": false,
+        "isTranslator": false,
+        "affiliatesHighlightedLabel": {},
+        "defaultProfile": true,
+        "defaultProfileImage": false,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
+        "listedCount": 3,
+        "mediaCount": 91,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter Web App",
@@ -99,11 +1610,11 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": true,
           "defaultProfileImage": false,
-          "followerCount": 9793,
+          "followerCount": 9814,
           "followingCount": 11,
-          "tweetCount": 338,
+          "tweetCount": 340,
           "listedCount": 63,
-          "mediaCount": 256,
+          "mediaCount": 257,
           "favoritesCount": 13,
           "createdAt": "2023-01-10T11:31:22.000Z"
         },
@@ -113,12 +1624,12 @@
         "quotedTweet": null,
         "reactionContext": null,
         "retweetedTweet": null,
-        "likeCount": 40,
+        "likeCount": 42,
         "retweetCount": 8,
         "replyCount": 1,
         "quoteCount": 3,
         "bookmarkCount": 11,
-        "viewCount": 2185,
+        "viewCount": 2283,
         "media": [
           {
             "id": "2092454556101943296",
@@ -307,7 +1818,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -333,12 +1844,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter Web App",
@@ -388,12 +1899,12 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": false,
           "defaultProfileImage": false,
-          "followerCount": 28820,
+          "followerCount": 28835,
           "followingCount": 488,
-          "tweetCount": 16267,
+          "tweetCount": 16300,
           "listedCount": 135,
-          "mediaCount": 1487,
-          "favoritesCount": 41981,
+          "mediaCount": 1490,
+          "favoritesCount": 42080,
           "createdAt": "2011-10-31T22:00:59.000Z"
         },
         "source": "Twitter for iPhone",
@@ -451,12 +1962,12 @@
             "affiliatesHighlightedLabel": {},
             "defaultProfile": false,
             "defaultProfileImage": false,
-            "followerCount": 10885,
+            "followerCount": 10882,
             "followingCount": 31,
-            "tweetCount": 15927,
+            "tweetCount": 15931,
             "listedCount": 64,
-            "mediaCount": 2104,
-            "favoritesCount": 9020,
+            "mediaCount": 2106,
+            "favoritesCount": 9027,
             "createdAt": "2013-04-27T13:04:07.000Z"
           },
           "source": "Twitter for Android",
@@ -470,7 +1981,7 @@
           "replyCount": 7,
           "quoteCount": 10,
           "bookmarkCount": 48,
-          "viewCount": 17212,
+          "viewCount": 17555,
           "media": [
             {
               "id": "2091753671604461568",
@@ -714,7 +2225,7 @@
         "replyCount": 1,
         "quoteCount": 0,
         "bookmarkCount": 0,
-        "viewCount": 2040,
+        "viewCount": 2161,
         "media": [],
         "poll": null,
         "card": null,
@@ -797,7 +2308,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -823,12 +2334,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter Web App",
@@ -850,7 +2361,7 @@
           "location": "Sentinel Islands",
           "website": null,
           "pinnedTweetIds": [
-            "2089845682610073666"
+            "2093093023647437114"
           ],
           "avatar": "https://pbs.twimg.com/profile_images/1682305511860113408/5YAoEpNL_normal.jpg",
           "banner": "https://pbs.twimg.com/profile_banners/1220735508101206016/1581357285/1500x500",
@@ -876,12 +2387,12 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": true,
           "defaultProfileImage": false,
-          "followerCount": 3295,
+          "followerCount": 3585,
           "followingCount": 2751,
-          "tweetCount": 5687,
-          "listedCount": 10,
-          "mediaCount": 1136,
-          "favoritesCount": 50710,
+          "tweetCount": 5751,
+          "listedCount": 12,
+          "mediaCount": 1167,
+          "favoritesCount": 50922,
           "createdAt": "2020-01-24T15:50:19.000Z"
         },
         "source": "Twitter for Android",
@@ -890,12 +2401,12 @@
         "quotedTweet": null,
         "reactionContext": null,
         "retweetedTweet": null,
-        "likeCount": 444,
+        "likeCount": 441,
         "retweetCount": 65,
         "replyCount": 23,
         "quoteCount": 15,
         "bookmarkCount": 105,
-        "viewCount": 72287,
+        "viewCount": 72577,
         "media": [
           {
             "id": "2090434171802116096",
@@ -1030,7 +2541,7 @@
       "replyCount": 0,
       "quoteCount": 0,
       "bookmarkCount": 2,
-      "viewCount": 1001,
+      "viewCount": 1006,
       "media": [
         {
           "id": "2091172467410599936",
@@ -1152,7 +2663,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -1178,12 +2689,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter for iPhone",
@@ -1239,11 +2750,11 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": false,
           "defaultProfileImage": false,
-          "followerCount": 145355,
+          "followerCount": 145433,
           "followingCount": 543,
-          "tweetCount": 2913,
-          "listedCount": 1153,
-          "mediaCount": 1697,
+          "tweetCount": 2915,
+          "listedCount": 1154,
+          "mediaCount": 1699,
           "favoritesCount": 522,
           "createdAt": "2013-12-02T22:24:22.000Z"
         },
@@ -1253,12 +2764,12 @@
         "quotedTweet": null,
         "reactionContext": null,
         "retweetedTweet": null,
-        "likeCount": 7210,
-        "retweetCount": 1433,
+        "likeCount": 7208,
+        "retweetCount": 1434,
         "replyCount": 0,
         "quoteCount": 468,
-        "bookmarkCount": 777,
-        "viewCount": 1746078,
+        "bookmarkCount": 774,
+        "viewCount": 1753406,
         "media": [
           {
             "id": "2090028982716518400",
@@ -1402,7 +2913,7 @@
       "replyCount": 0,
       "quoteCount": 0,
       "bookmarkCount": 0,
-      "viewCount": 92,
+      "viewCount": 95,
       "media": [],
       "poll": null,
       "card": null,
@@ -1446,7 +2957,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -1472,12 +2983,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter for iPhone",
@@ -1527,11 +3038,11 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": false,
           "defaultProfileImage": false,
-          "followerCount": 471439,
+          "followerCount": 471400,
           "followingCount": 111,
-          "tweetCount": 607794,
-          "listedCount": 2160,
-          "mediaCount": 194397,
+          "tweetCount": 607980,
+          "listedCount": 2159,
+          "mediaCount": 194473,
           "favoritesCount": 232,
           "createdAt": "2011-11-17T18:03:25.000Z"
         },
@@ -1731,7 +3242,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -1757,12 +3268,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter for iPhone",
@@ -1822,12 +3333,12 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": true,
           "defaultProfileImage": false,
-          "followerCount": 12170,
-          "followingCount": 1763,
+          "followerCount": 12168,
+          "followingCount": 1764,
           "tweetCount": 1769,
           "listedCount": 20,
           "mediaCount": 609,
-          "favoritesCount": 18716,
+          "favoritesCount": 18724,
           "createdAt": "2018-07-10T15:09:55.000Z"
         },
         "source": "Twitter Web App",
@@ -1836,12 +3347,12 @@
         "quotedTweet": null,
         "reactionContext": null,
         "retweetedTweet": null,
-        "likeCount": 3303,
-        "retweetCount": 298,
+        "likeCount": 3298,
+        "retweetCount": 297,
         "replyCount": 81,
         "quoteCount": 25,
         "bookmarkCount": 59,
-        "viewCount": 36216,
+        "viewCount": 36283,
         "media": [
           {
             "id": "2089605910691979264",
@@ -2069,7 +3580,7 @@
         "communityResults": null
       },
       "likeCount": 0,
-      "retweetCount": 298,
+      "retweetCount": 297,
       "replyCount": 0,
       "quoteCount": 0,
       "bookmarkCount": 0,
@@ -2123,7 +3634,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -2149,12 +3660,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter Web App",
@@ -2204,12 +3715,12 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": true,
           "defaultProfileImage": false,
-          "followerCount": 4012,
+          "followerCount": 4013,
           "followingCount": 1157,
-          "tweetCount": 3749,
+          "tweetCount": 3754,
           "listedCount": 31,
           "mediaCount": 903,
-          "favoritesCount": 14738,
+          "favoritesCount": 14779,
           "createdAt": "2009-09-30T21:14:35.000Z"
         },
         "source": "Twitter for Android",
@@ -2223,7 +3734,7 @@
         "replyCount": 0,
         "quoteCount": 0,
         "bookmarkCount": 1,
-        "viewCount": 437,
+        "viewCount": 439,
         "media": [],
         "poll": null,
         "card": null,
@@ -2308,7 +3819,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -2334,12 +3845,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter Web App",
@@ -2357,11 +3868,11 @@
           "id": "552532075",
           "username": "PhSoCr",
           "name": "Shankar Prakash",
-          "bio": "PhD (UNoM) | Socialist | Op-Ed Writer & Science Communicator | Ph, So & Cr Student | @UN Volunteer | Probing policing, justice & accountability ✊🏽\n\nதமிழ் வாழ்க",
+          "bio": "PhD. Socialist. Tamil Nadu.\nPolice, courts, assembly, environment.\nPermanent state. Temporary governments. I keep the brief. ✊🏽",
           "location": "Tamil Nadu",
           "website": null,
           "pinnedTweetIds": [
-            "2046423799369990495"
+            "1863117927328997627"
           ],
           "avatar": "https://pbs.twimg.com/profile_images/2079792763953115136/rDe-x6PT_normal.jpg",
           "banner": "https://pbs.twimg.com/profile_banners/552532075/1783249459/1500x500",
@@ -2397,12 +3908,12 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": false,
           "defaultProfileImage": false,
-          "followerCount": 4126,
-          "followingCount": 1237,
-          "tweetCount": 10019,
+          "followerCount": 4136,
+          "followingCount": 1242,
+          "tweetCount": 10058,
           "listedCount": 8,
-          "mediaCount": 1891,
-          "favoritesCount": 25810,
+          "mediaCount": 1900,
+          "favoritesCount": 25950,
           "createdAt": "2012-04-13T08:29:28.000Z"
         },
         "source": "Twitter Web App",
@@ -2416,7 +3927,7 @@
         "replyCount": 3,
         "quoteCount": 2,
         "bookmarkCount": 2,
-        "viewCount": 22539,
+        "viewCount": 22559,
         "media": [
           {
             "id": "1837501487594749952",
@@ -2696,7 +4207,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -2722,12 +4233,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter Web App",
@@ -2775,11 +4286,11 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": false,
           "defaultProfileImage": false,
-          "followerCount": 8383463,
+          "followerCount": 8385987,
           "followingCount": 187,
-          "tweetCount": 721509,
-          "listedCount": 8559,
-          "mediaCount": 65357,
+          "tweetCount": 722053,
+          "listedCount": 8556,
+          "mediaCount": 65420,
           "favoritesCount": 259,
           "createdAt": "2009-02-13T06:04:24.000Z"
         },
@@ -2794,7 +4305,7 @@
         "replyCount": 3,
         "quoteCount": 1,
         "bookmarkCount": 40,
-        "viewCount": 15430,
+        "viewCount": 15436,
         "media": [
           {
             "id": "2086868407451029504",
@@ -2990,7 +4501,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -3016,12 +4527,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter Web App",
@@ -3079,12 +4590,12 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": true,
           "defaultProfileImage": false,
-          "followerCount": 392,
-          "followingCount": 266,
-          "tweetCount": 1173,
+          "followerCount": 389,
+          "followingCount": 269,
+          "tweetCount": 1184,
           "listedCount": 4,
-          "mediaCount": 105,
-          "favoritesCount": 1033,
+          "mediaCount": 106,
+          "favoritesCount": 1050,
           "createdAt": "2024-12-02T16:51:51.000Z"
         },
         "source": "Twitter Web App",
@@ -3102,7 +4613,7 @@
         "replyCount": 0,
         "quoteCount": 1,
         "bookmarkCount": 39,
-        "viewCount": 4615,
+        "viewCount": 4617,
         "media": [],
         "poll": null,
         "card": {
@@ -3114,14 +4625,14 @@
             "title": "Will AI Replace Physicists? | Prof. Deepak Dhar on Physics, Intelligence & Richard Feynman",
             "description": "Subscribe to our editorial for interesting insights & articles http...",
             "domain": "www.youtube.com",
-            "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2091235445963124736/v0fdufi7?format=jpg&name=orig",
+            "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2093775360647368704/Ug9Vj19A?format=jpg&name=orig",
             "thumbnailImageColor": null,
             "playerUrl": null,
             "playerWidth": null,
             "playerHeight": null,
             "appId": null,
             "appName": "YouTube",
-            "appStarRating": 4.66807,
+            "appStarRating": 4.6679,
             "appPriceAmount": null,
             "appPriceCurrency": "USD"
           },
@@ -3172,16 +4683,16 @@
               "affiliatesHighlightedLabel": {},
               "defaultProfile": false,
               "defaultProfileImage": false,
-              "followerCount": 68825182,
+              "followerCount": 68832961,
               "followingCount": 1142,
-              "tweetCount": 61415,
-              "listedCount": 73969,
-              "mediaCount": 16184,
+              "tweetCount": 61423,
+              "listedCount": 73962,
+              "mediaCount": 16185,
               "favoritesCount": 6026,
               "createdAt": "2007-11-13T21:43:46.000Z"
             }
           ],
-          "imageUrl": "https://pbs.twimg.com/card_img/2091235445963124736/v0fdufi7?format=jpg&name=orig"
+          "imageUrl": "https://pbs.twimg.com/card_img/2093775360647368704/Ug9Vj19A?format=jpg&name=orig"
         },
         "article": null,
         "hashtags": [],
@@ -3226,14 +4737,14 @@
           "title": "Will AI Replace Physicists? | Prof. Deepak Dhar on Physics, Intelligence & Richard Feynman",
           "description": "Subscribe to our editorial for interesting insights & articles http...",
           "domain": "www.youtube.com",
-          "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2091235445963124736/v0fdufi7?format=jpg&name=orig",
+          "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2093775360647368704/Ug9Vj19A?format=jpg&name=orig",
           "thumbnailImageColor": null,
           "playerUrl": null,
           "playerWidth": null,
           "playerHeight": null,
           "appId": null,
           "appName": "YouTube",
-          "appStarRating": 4.66807,
+          "appStarRating": 4.6679,
           "appPriceAmount": null,
           "appPriceCurrency": "USD"
         },
@@ -3284,16 +4795,16 @@
             "affiliatesHighlightedLabel": {},
             "defaultProfile": false,
             "defaultProfileImage": false,
-            "followerCount": 68825182,
+            "followerCount": 68832961,
             "followingCount": 1142,
-            "tweetCount": 61415,
-            "listedCount": 73969,
-            "mediaCount": 16184,
+            "tweetCount": 61423,
+            "listedCount": 73962,
+            "mediaCount": 16185,
             "favoritesCount": 6026,
             "createdAt": "2007-11-13T21:43:46.000Z"
           }
         ],
-        "imageUrl": "https://pbs.twimg.com/card_img/2091235445963124736/v0fdufi7?format=jpg&name=orig"
+        "imageUrl": "https://pbs.twimg.com/card_img/2093775360647368704/Ug9Vj19A?format=jpg&name=orig"
       },
       "article": null,
       "hashtags": [],
@@ -3343,7 +4854,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -3369,12 +4880,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter for iPhone",
@@ -3424,12 +4935,12 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": true,
           "defaultProfileImage": false,
-          "followerCount": 4012,
+          "followerCount": 4013,
           "followingCount": 1157,
-          "tweetCount": 3749,
+          "tweetCount": 3754,
           "listedCount": 31,
           "mediaCount": 903,
-          "favoritesCount": 14738,
+          "favoritesCount": 14779,
           "createdAt": "2009-09-30T21:14:35.000Z"
         },
         "source": "Twitter Web App",
@@ -3438,12 +4949,12 @@
         "quotedTweet": null,
         "reactionContext": null,
         "retweetedTweet": null,
-        "likeCount": 311,
+        "likeCount": 308,
         "retweetCount": 36,
         "replyCount": 4,
         "quoteCount": 1,
-        "bookmarkCount": 50,
-        "viewCount": 16216,
+        "bookmarkCount": 49,
+        "viewCount": 16253,
         "media": [],
         "poll": null,
         "card": null,
@@ -3526,7 +5037,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -3552,12 +5063,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter for iPhone",
@@ -3615,11 +5126,11 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": true,
           "defaultProfileImage": false,
-          "followerCount": 386590,
+          "followerCount": 386602,
           "followingCount": 149,
-          "tweetCount": 169049,
-          "listedCount": 1316,
-          "mediaCount": 17519,
+          "tweetCount": 169128,
+          "listedCount": 1315,
+          "mediaCount": 17543,
           "favoritesCount": 538,
           "createdAt": "2010-05-07T04:10:03.000Z"
         },
@@ -3634,7 +5145,7 @@
         "replyCount": 3,
         "quoteCount": 4,
         "bookmarkCount": 26,
-        "viewCount": 13976,
+        "viewCount": 13984,
         "media": [
           {
             "id": "2086787566297366529",
@@ -3804,178 +5315,6 @@
       "communityResults": null
     },
     {
-      "id": "2083765168840843584",
-      "conversationId": "2083765168840843584",
-      "text": "It's time for a new season! 🥳🥳\n\nFor E1, we are joined by friend-of-the-pod Prof. Indranil Dutta @academicmargin and Prof. Chandan Narayan for a fantastic discussion on language science fundamentals, what constitutes ling data, and much more!\nSpotify: https://open.spotify.com/episode/0wqHi4Dg53Co3CAgvBXYXn?si=FTPi14ypSte9COfVGzY3jw",
-      "displayTextRange": [
-        0,
-        274
-      ],
-      "author": {
-        "id": "1678804918080258048",
-        "username": "desiacadpod",
-        "name": "Desi Academia Podcast",
-        "bio": "Tune in to conversations with South Asian knowledge-creators about academic life, research, politics, and survival !\n🗣️🧑‍💻🔬📖📊🇮🇳🌈\n\ndesiacadpod on 🦋",
-        "location": null,
-        "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
-        "pinnedTweetIds": [
-          "2083765168840843584"
-        ],
-        "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
-        "banner": null,
-        "profileImageShape": "Circle",
-        "verified": false,
-        "isBlueVerified": false,
-        "verifiedType": null,
-        "verifiedSince": null,
-        "isIdentityVerified": false,
-        "isProtected": false,
-        "possiblySensitive": false,
-        "profileInterstitialType": null,
-        "withheldInCountries": [],
-        "professional": null,
-        "businessAccount": null,
-        "creatorSubscriptionsCount": 0,
-        "hasHiddenSubscriptions": false,
-        "highlightsInfo": null,
-        "hasGraduatedAccess": true,
-        "isProfileTranslatable": false,
-        "hasCustomTimelines": false,
-        "isTranslator": false,
-        "affiliatesHighlightedLabel": {},
-        "defaultProfile": true,
-        "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
-        "listedCount": 3,
-        "mediaCount": 91,
-        "favoritesCount": 893,
-        "createdAt": "2023-07-11T16:34:57.000Z"
-      },
-      "source": "Twitter Web App",
-      "type": "tweet",
-      "replyTo": null,
-      "quotedTweet": null,
-      "reactionContext": null,
-      "retweetedTweet": null,
-      "likeCount": 7,
-      "retweetCount": 1,
-      "replyCount": 1,
-      "quoteCount": 1,
-      "bookmarkCount": 2,
-      "viewCount": 550,
-      "media": [],
-      "poll": null,
-      "card": {
-        "name": "summary",
-        "url": "https://t.co/NLywxB6Tna",
-        "cardType": "",
-        "type": "summary",
-        "bindingValues": {
-          "title": "Linguistics 101 with Chandan and Indranil",
-          "description": "Desi Academia Podcast · Episode",
-          "domain": "open.spotify.com",
-          "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/FBJmOWu_?format=jpg&name=orig",
-          "thumbnailImageColor": null,
-          "playerUrl": null,
-          "playerWidth": null,
-          "playerHeight": null,
-          "appId": null,
-          "appName": null,
-          "appStarRating": null,
-          "appPriceAmount": null,
-          "appPriceCurrency": null
-        },
-        "cardPlatform": {
-          "platform": {
-            "device": {
-              "name": "Swift",
-              "version": "12"
-            },
-            "audience": {
-              "name": "production"
-            }
-          }
-        },
-        "vanityUrl": "open.spotify.com",
-        "userRefsResults": [
-          {
-            "id": "17230018",
-            "username": "Spotify",
-            "name": "Spotify",
-            "bio": "squeezing in a few more summer anthems",
-            "location": null,
-            "website": "https://open.spotify.com/playlist/37i9dQZF1DWSYXDfndvXy2",
-            "pinnedTweetIds": [],
-            "avatar": "https://pbs.twimg.com/profile_images/1793315484961591301/DiEXUJEV_normal.jpg",
-            "banner": "https://pbs.twimg.com/profile_banners/17230018/1767711221/1500x500",
-            "profileImageShape": "Square",
-            "verified": false,
-            "isBlueVerified": true,
-            "verifiedType": null,
-            "verifiedSince": null,
-            "isIdentityVerified": false,
-            "isProtected": false,
-            "possiblySensitive": false,
-            "profileInterstitialType": null,
-            "withheldInCountries": [],
-            "professional": null,
-            "businessAccount": null,
-            "creatorSubscriptionsCount": 0,
-            "hasHiddenSubscriptions": false,
-            "highlightsInfo": null,
-            "hasGraduatedAccess": true,
-            "isProfileTranslatable": false,
-            "hasCustomTimelines": true,
-            "isTranslator": false,
-            "affiliatesHighlightedLabel": {},
-            "defaultProfile": false,
-            "defaultProfileImage": false,
-            "followerCount": 21667223,
-            "followingCount": 15581,
-            "tweetCount": 50851,
-            "listedCount": 16596,
-            "mediaCount": 11471,
-            "favoritesCount": 19074,
-            "createdAt": "2008-11-07T12:14:28.000Z"
-          }
-        ],
-        "imageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/FBJmOWu_?format=jpg&name=orig"
-      },
-      "article": null,
-      "hashtags": [],
-      "mentions": [
-        {
-          "id": "1481197459",
-          "username": "academicmargin",
-          "name": "Indranil Dutta"
-        }
-      ],
-      "urls": [
-        "https://open.spotify.com/episode/0wqHi4Dg53Co3CAgvBXYXn?si=FTPi14ypSte9COfVGzY3jw"
-      ],
-      "symbols": [],
-      "possiblySensitive": false,
-      "limitedActions": null,
-      "hasAIGeneratedMedia": false,
-      "isPaidPromotion": false,
-      "isEdited": false,
-      "editControl": null,
-      "isTranslatable": false,
-      "lang": "en",
-      "translatedText": null,
-      "hasBirdwatchNotes": false,
-      "birdwatchPivot": null,
-      "conversationControl": null,
-      "isPromoted": false,
-      "promotedMetadata": null,
-      "createdAt": "2026-08-02T04:01:45.000Z",
-      "place": null,
-      "communityId": null,
-      "communityResults": null
-    },
-    {
       "id": "2083765398692835336",
       "conversationId": "2083765168840843584",
       "text": "S13E1 Apple Podcast: https://podcasts.apple.com/us/podcast/linguistics-101-with-chandan-and-indranil/id1697173592",
@@ -3991,7 +5330,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -4017,12 +5356,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter Web App",
@@ -4040,7 +5379,7 @@
       "replyCount": 1,
       "quoteCount": 0,
       "bookmarkCount": 0,
-      "viewCount": 52,
+      "viewCount": 55,
       "media": [],
       "poll": null,
       "card": {
@@ -4052,7 +5391,7 @@
           "title": "Desi Academia Podcast",
           "description": "Science Podcast · A space for discussing the trials and tribulations that make research and academic life interesting. This podcast offers the perspective of early-career Desi researchers navigating...",
           "domain": "podcasts.apple.com",
-          "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2091441045732999168/1ynmjPLp?format=jpg&name=orig",
+          "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2093982131324088321/FDo7skYP?format=jpg&name=orig",
           "thumbnailImageColor": null,
           "playerUrl": null,
           "playerWidth": null,
@@ -4110,16 +5449,16 @@
             "affiliatesHighlightedLabel": {},
             "defaultProfile": false,
             "defaultProfileImage": false,
-            "followerCount": 591891,
-            "followingCount": 1933,
-            "tweetCount": 9239,
-            "listedCount": 4801,
-            "mediaCount": 5231,
+            "followerCount": 591874,
+            "followingCount": 1934,
+            "tweetCount": 9240,
+            "listedCount": 4802,
+            "mediaCount": 5232,
             "favoritesCount": 2982,
             "createdAt": "2009-06-18T18:13:59.000Z"
           }
         ],
-        "imageUrl": "https://pbs.twimg.com/card_img/2091441045732999168/1ynmjPLp?format=jpg&name=orig"
+        "imageUrl": "https://pbs.twimg.com/card_img/2093982131324088321/FDo7skYP?format=jpg&name=orig"
       },
       "article": null,
       "hashtags": [],
@@ -4163,7 +5502,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -4189,12 +5528,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter Web App",
@@ -4220,7 +5559,7 @@
           "location": null,
           "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
           "pinnedTweetIds": [
-            "2083765168840843584"
+            "2094100242278826373"
           ],
           "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
           "banner": null,
@@ -4246,12 +5585,12 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": true,
           "defaultProfileImage": false,
-          "followerCount": 782,
-          "followingCount": 617,
-          "tweetCount": 1005,
+          "followerCount": 778,
+          "followingCount": 612,
+          "tweetCount": 1010,
           "listedCount": 3,
           "mediaCount": 91,
-          "favoritesCount": 893,
+          "favoritesCount": 898,
           "createdAt": "2023-07-11T16:34:57.000Z"
         },
         "source": "Twitter for iPhone",
@@ -4269,7 +5608,7 @@
         "replyCount": 1,
         "quoteCount": 2,
         "bookmarkCount": 0,
-        "viewCount": 334,
+        "viewCount": 337,
         "media": [],
         "poll": null,
         "card": {
@@ -4281,7 +5620,7 @@
             "title": "S12E1: Learning science masterclass with Dr. Robin Sharma",
             "description": "Desi Academia Podcast · Episode",
             "domain": "open.spotify.com",
-            "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2088513462137929728/UlD_i1yz?format=jpg&name=orig",
+            "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/e-IUPJKi?format=jpg&name=orig",
             "thumbnailImageColor": null,
             "playerUrl": null,
             "playerWidth": null,
@@ -4337,16 +5676,16 @@
               "affiliatesHighlightedLabel": {},
               "defaultProfile": false,
               "defaultProfileImage": false,
-              "followerCount": 21667223,
-              "followingCount": 15581,
-              "tweetCount": 50851,
-              "listedCount": 16596,
-              "mediaCount": 11471,
-              "favoritesCount": 19074,
+              "followerCount": 21709528,
+              "followingCount": 15578,
+              "tweetCount": 50886,
+              "listedCount": 16598,
+              "mediaCount": 11491,
+              "favoritesCount": 19083,
               "createdAt": "2008-11-07T12:14:28.000Z"
             }
           ],
-          "imageUrl": "https://pbs.twimg.com/card_img/2088513462137929728/UlD_i1yz?format=jpg&name=orig"
+          "imageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/e-IUPJKi?format=jpg&name=orig"
         },
         "article": null,
         "hashtags": [],
@@ -4381,7 +5720,7 @@
       "replyCount": 0,
       "quoteCount": 0,
       "bookmarkCount": 0,
-      "viewCount": 13,
+      "viewCount": 16,
       "media": [],
       "poll": null,
       "card": {
@@ -4460,7 +5799,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -4486,12 +5825,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter for iPhone",
@@ -4513,7 +5852,7 @@
           "location": null,
           "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
           "pinnedTweetIds": [
-            "2083765168840843584"
+            "2094100242278826373"
           ],
           "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
           "banner": null,
@@ -4539,12 +5878,12 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": true,
           "defaultProfileImage": false,
-          "followerCount": 782,
-          "followingCount": 617,
-          "tweetCount": 1005,
+          "followerCount": 778,
+          "followingCount": 612,
+          "tweetCount": 1010,
           "listedCount": 3,
           "mediaCount": 91,
-          "favoritesCount": 893,
+          "favoritesCount": 898,
           "createdAt": "2023-07-11T16:34:57.000Z"
         },
         "source": "Twitter Web App",
@@ -4555,10 +5894,10 @@
         "retweetedTweet": null,
         "likeCount": 7,
         "retweetCount": 1,
-        "replyCount": 1,
+        "replyCount": 3,
         "quoteCount": 1,
         "bookmarkCount": 2,
-        "viewCount": 550,
+        "viewCount": 575,
         "media": [],
         "poll": null,
         "card": {
@@ -4567,10 +5906,10 @@
           "cardType": "",
           "type": "summary",
           "bindingValues": {
-            "title": "Linguistics 101 with Chandan and Indranil",
+            "title": "S13E1: Linguistics 101 with Chandan and Indranil",
             "description": "Desi Academia Podcast · Episode",
             "domain": "open.spotify.com",
-            "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/FBJmOWu_?format=jpg&name=orig",
+            "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2093719902041628672/Sg0pjhOx?format=jpg&name=orig",
             "thumbnailImageColor": null,
             "playerUrl": null,
             "playerWidth": null,
@@ -4626,16 +5965,16 @@
               "affiliatesHighlightedLabel": {},
               "defaultProfile": false,
               "defaultProfileImage": false,
-              "followerCount": 21667223,
-              "followingCount": 15581,
-              "tweetCount": 50851,
-              "listedCount": 16596,
-              "mediaCount": 11471,
-              "favoritesCount": 19074,
+              "followerCount": 21709528,
+              "followingCount": 15578,
+              "tweetCount": 50886,
+              "listedCount": 16598,
+              "mediaCount": 11491,
+              "favoritesCount": 19083,
               "createdAt": "2008-11-07T12:14:28.000Z"
             }
           ],
-          "imageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/FBJmOWu_?format=jpg&name=orig"
+          "imageUrl": "https://pbs.twimg.com/card_img/2093719902041628672/Sg0pjhOx?format=jpg&name=orig"
         },
         "article": null,
         "hashtags": [],
@@ -4720,7 +6059,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -4746,12 +6085,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter Web App",
@@ -4777,7 +6116,7 @@
           "title": "S11E1: Pivoting from a PhD- navigating an alternative career path with Harsha",
           "description": "Desi Academia Podcast · Episode",
           "domain": "open.spotify.com",
-          "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/FBJmOWu_?format=jpg&name=orig",
+          "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/e-IUPJKi?format=jpg&name=orig",
           "thumbnailImageColor": null,
           "playerUrl": null,
           "playerWidth": null,
@@ -4833,16 +6172,16 @@
             "affiliatesHighlightedLabel": {},
             "defaultProfile": false,
             "defaultProfileImage": false,
-            "followerCount": 21667223,
-            "followingCount": 15581,
-            "tweetCount": 50851,
-            "listedCount": 16596,
-            "mediaCount": 11471,
-            "favoritesCount": 19074,
+            "followerCount": 21709528,
+            "followingCount": 15578,
+            "tweetCount": 50886,
+            "listedCount": 16598,
+            "mediaCount": 11491,
+            "favoritesCount": 19083,
             "createdAt": "2008-11-07T12:14:28.000Z"
           }
         ],
-        "imageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/FBJmOWu_?format=jpg&name=orig"
+        "imageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/e-IUPJKi?format=jpg&name=orig"
       },
       "article": null,
       "hashtags": [],
@@ -4893,7 +6232,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -4919,12 +6258,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter for iPhone",
@@ -4954,7 +6293,7 @@
           "title": "S12E4: The postdoctoral saga so far...ft. Sumaira",
           "description": "Desi Academia Podcast · Episode",
           "domain": "open.spotify.com",
-          "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/FBJmOWu_?format=jpg&name=orig",
+          "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/e-IUPJKi?format=jpg&name=orig",
           "thumbnailImageColor": null,
           "playerUrl": null,
           "playerWidth": null,
@@ -5010,16 +6349,16 @@
             "affiliatesHighlightedLabel": {},
             "defaultProfile": false,
             "defaultProfileImage": false,
-            "followerCount": 21667223,
-            "followingCount": 15581,
-            "tweetCount": 50851,
-            "listedCount": 16596,
-            "mediaCount": 11471,
-            "favoritesCount": 19074,
+            "followerCount": 21709528,
+            "followingCount": 15578,
+            "tweetCount": 50886,
+            "listedCount": 16598,
+            "mediaCount": 11491,
+            "favoritesCount": 19083,
             "createdAt": "2008-11-07T12:14:28.000Z"
           }
         ],
-        "imageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/FBJmOWu_?format=jpg&name=orig"
+        "imageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/e-IUPJKi?format=jpg&name=orig"
       },
       "article": null,
       "hashtags": [],
@@ -5074,7 +6413,7 @@
         "location": null,
         "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
         "pinnedTweetIds": [
-          "2083765168840843584"
+          "2094100242278826373"
         ],
         "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
         "banner": null,
@@ -5100,12 +6439,12 @@
         "affiliatesHighlightedLabel": {},
         "defaultProfile": true,
         "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
+        "followerCount": 778,
+        "followingCount": 612,
+        "tweetCount": 1010,
         "listedCount": 3,
         "mediaCount": 91,
-        "favoritesCount": 893,
+        "favoritesCount": 898,
         "createdAt": "2023-07-11T16:34:57.000Z"
       },
       "source": "Twitter Web App",
@@ -5131,7 +6470,7 @@
           "location": null,
           "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
           "pinnedTweetIds": [
-            "2083765168840843584"
+            "2094100242278826373"
           ],
           "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
           "banner": null,
@@ -5157,12 +6496,12 @@
           "affiliatesHighlightedLabel": {},
           "defaultProfile": true,
           "defaultProfileImage": false,
-          "followerCount": 782,
-          "followingCount": 617,
-          "tweetCount": 1005,
+          "followerCount": 778,
+          "followingCount": 612,
+          "tweetCount": 1010,
           "listedCount": 3,
           "mediaCount": 91,
-          "favoritesCount": 893,
+          "favoritesCount": 898,
           "createdAt": "2023-07-11T16:34:57.000Z"
         },
         "source": "Twitter for iPhone",
@@ -5180,7 +6519,7 @@
         "replyCount": 1,
         "quoteCount": 2,
         "bookmarkCount": 0,
-        "viewCount": 334,
+        "viewCount": 337,
         "media": [],
         "poll": null,
         "card": {
@@ -5192,7 +6531,7 @@
             "title": "S12E1: Learning science masterclass with Dr. Robin Sharma",
             "description": "Desi Academia Podcast · Episode",
             "domain": "open.spotify.com",
-            "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2088513462137929728/UlD_i1yz?format=jpg&name=orig",
+            "thumbnailImageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/e-IUPJKi?format=jpg&name=orig",
             "thumbnailImageColor": null,
             "playerUrl": null,
             "playerWidth": null,
@@ -5248,16 +6587,16 @@
               "affiliatesHighlightedLabel": {},
               "defaultProfile": false,
               "defaultProfileImage": false,
-              "followerCount": 21667223,
-              "followingCount": 15581,
-              "tweetCount": 50851,
-              "listedCount": 16596,
-              "mediaCount": 11471,
-              "favoritesCount": 19074,
+              "followerCount": 21709528,
+              "followingCount": 15578,
+              "tweetCount": 50886,
+              "listedCount": 16598,
+              "mediaCount": 11491,
+              "favoritesCount": 19083,
               "createdAt": "2008-11-07T12:14:28.000Z"
             }
           ],
-          "imageUrl": "https://pbs.twimg.com/card_img/2088513462137929728/UlD_i1yz?format=jpg&name=orig"
+          "imageUrl": "https://pbs.twimg.com/card_img/2091140363369295872/e-IUPJKi?format=jpg&name=orig"
         },
         "article": null,
         "hashtags": [],
@@ -5365,960 +6704,10 @@
       "place": null,
       "communityId": null,
       "communityResults": null
-    },
-    {
-      "id": "2082975532132581552",
-      "conversationId": "2082975532132581552",
-      "text": "Hān āp chūtiye hain. https://x.com/desiacadpod/status/2082975532132581552/photo/1",
-      "displayTextRange": [
-        0,
-        20
-      ],
-      "author": {
-        "id": "1678804918080258048",
-        "username": "desiacadpod",
-        "name": "Desi Academia Podcast",
-        "bio": "Tune in to conversations with South Asian knowledge-creators about academic life, research, politics, and survival !\n🗣️🧑‍💻🔬📖📊🇮🇳🌈\n\ndesiacadpod on 🦋",
-        "location": null,
-        "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
-        "pinnedTweetIds": [
-          "2083765168840843584"
-        ],
-        "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
-        "banner": null,
-        "profileImageShape": "Circle",
-        "verified": false,
-        "isBlueVerified": false,
-        "verifiedType": null,
-        "verifiedSince": null,
-        "isIdentityVerified": false,
-        "isProtected": false,
-        "possiblySensitive": false,
-        "profileInterstitialType": null,
-        "withheldInCountries": [],
-        "professional": null,
-        "businessAccount": null,
-        "creatorSubscriptionsCount": 0,
-        "hasHiddenSubscriptions": false,
-        "highlightsInfo": null,
-        "hasGraduatedAccess": true,
-        "isProfileTranslatable": false,
-        "hasCustomTimelines": false,
-        "isTranslator": false,
-        "affiliatesHighlightedLabel": {},
-        "defaultProfile": true,
-        "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
-        "listedCount": 3,
-        "mediaCount": 91,
-        "favoritesCount": 893,
-        "createdAt": "2023-07-11T16:34:57.000Z"
-      },
-      "source": "Twitter Web App",
-      "type": "tweet",
-      "replyTo": null,
-      "quotedTweet": null,
-      "reactionContext": null,
-      "retweetedTweet": null,
-      "likeCount": 9,
-      "retweetCount": 0,
-      "replyCount": 0,
-      "quoteCount": 0,
-      "bookmarkCount": 0,
-      "viewCount": 600,
-      "media": [
-        {
-          "id": "2082975331959402496",
-          "key": "3_2082975331959402496",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HOg3B0FXcAAfFVI.jpg",
-          "displayUrl": "pic.x.com/VGM5q4s1sz",
-          "expandedUrl": "https://x.com/desiacadpod/status/2082975532132581552/photo/1",
-          "thumbnailUrl": "https://pbs.twimg.com/media/HOg3B0FXcAAfFVI.jpg",
-          "width": 1170,
-          "height": 833,
-          "aspectRatio": [
-            1170,
-            833
-          ],
-          "sizes": {
-            "thumb": {
-              "width": 150,
-              "height": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "width": 680,
-              "height": 484,
-              "resize": "fit"
-            },
-            "medium": {
-              "width": 1170,
-              "height": 833,
-              "resize": "fit"
-            },
-            "large": {
-              "width": 1170,
-              "height": 833,
-              "resize": "fit"
-            },
-            "original": {
-              "width": 1170,
-              "height": 833,
-              "resize": "fit"
-            }
-          },
-          "duration": null,
-          "bitrate": null,
-          "videoInfo": null,
-          "altText": null,
-          "sensitiveMedia": false,
-          "features": {
-            "all": [],
-            "large": [],
-            "medium": [],
-            "small": [],
-            "orig": [
-              {
-                "faces": [
-                  {
-                    "x": 0,
-                    "y": 0,
-                    "width": 1170,
-                    "height": 655
-                  },
-                  {
-                    "x": 22,
-                    "y": 0,
-                    "width": 833,
-                    "height": 833
-                  },
-                  {
-                    "x": 73,
-                    "y": 0,
-                    "width": 731,
-                    "height": 833
-                  },
-                  {
-                    "x": 230,
-                    "y": 0,
-                    "width": 417,
-                    "height": 833
-                  },
-                  {
-                    "x": 0,
-                    "y": 0,
-                    "width": 1170,
-                    "height": 833
-                  }
-                ]
-              }
-            ]
-          },
-          "mediaAvailability": {
-            "status": "Available",
-            "reason": null
-          },
-          "allowDownload": true,
-          "mediaStats": null,
-          "processingInfo": null,
-          "sourceStatusId": null,
-          "sourceUserId": null,
-          "stickers": null
-        }
-      ],
-      "poll": null,
-      "card": null,
-      "article": null,
-      "hashtags": [],
-      "mentions": [],
-      "urls": [],
-      "symbols": [],
-      "possiblySensitive": false,
-      "limitedActions": null,
-      "hasAIGeneratedMedia": false,
-      "isPaidPromotion": false,
-      "isEdited": false,
-      "editControl": null,
-      "isTranslatable": false,
-      "lang": "lv",
-      "translatedText": null,
-      "hasBirdwatchNotes": false,
-      "birdwatchPivot": null,
-      "conversationControl": null,
-      "isPromoted": false,
-      "promotedMetadata": null,
-      "createdAt": "2026-07-30T23:44:01.000Z",
-      "place": null,
-      "communityId": null,
-      "communityResults": null
-    },
-    {
-      "id": "2082951869316419711",
-      "conversationId": "2082951869316419711",
-      "text": "Indian academics have kept quiet over structural issues in Indian academia, including  the erosion of scientific temper in society, loss of academic freedom in campuses, irregularities in funding.\n\nQuestion the lack of scientific temper in an IIT Director, and look at them go!",
-      "displayTextRange": [
-        0,
-        140
-      ],
-      "author": {
-        "id": "1678804918080258048",
-        "username": "desiacadpod",
-        "name": "Desi Academia Podcast",
-        "bio": "Tune in to conversations with South Asian knowledge-creators about academic life, research, politics, and survival !\n🗣️🧑‍💻🔬📖📊🇮🇳🌈\n\ndesiacadpod on 🦋",
-        "location": null,
-        "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
-        "pinnedTweetIds": [
-          "2083765168840843584"
-        ],
-        "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
-        "banner": null,
-        "profileImageShape": "Circle",
-        "verified": false,
-        "isBlueVerified": false,
-        "verifiedType": null,
-        "verifiedSince": null,
-        "isIdentityVerified": false,
-        "isProtected": false,
-        "possiblySensitive": false,
-        "profileInterstitialType": null,
-        "withheldInCountries": [],
-        "professional": null,
-        "businessAccount": null,
-        "creatorSubscriptionsCount": 0,
-        "hasHiddenSubscriptions": false,
-        "highlightsInfo": null,
-        "hasGraduatedAccess": true,
-        "isProfileTranslatable": false,
-        "hasCustomTimelines": false,
-        "isTranslator": false,
-        "affiliatesHighlightedLabel": {},
-        "defaultProfile": true,
-        "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
-        "listedCount": 3,
-        "mediaCount": 91,
-        "favoritesCount": 893,
-        "createdAt": "2023-07-11T16:34:57.000Z"
-      },
-      "source": "Twitter Web App",
-      "type": "retweet",
-      "replyTo": null,
-      "quotedTweet": null,
-      "reactionContext": null,
-      "retweetedTweet": {
-        "id": "2082824771591372845",
-        "conversationId": "2082824771591372845",
-        "text": "Indian academics have kept quiet over structural issues in Indian academia, including  the erosion of scientific temper in society, loss of academic freedom in campuses, irregularities in funding.\n\nQuestion the lack of scientific temper in an IIT Director, and look at them go!",
-        "displayTextRange": [
-          0,
-          277
-        ],
-        "author": {
-          "id": "1210645781226504192",
-          "username": "BhaJaPod",
-          "name": "Bharatiya Junta Pod🇮🇳Newsein aur Thoughtein",
-          "bio": "A quirky, liberal take on all that's farcical, absurd and depressing in India or as some call it Aryavart, the land of acche din. (Small India Radio production)",
-          "location": "Aryavrata",
-          "website": "https://podcasts.apple.com/us/podcast/bharatiya-junta-podcast/id1480005070",
-          "pinnedTweetIds": [
-            "2088464600618697148"
-          ],
-          "avatar": "https://pbs.twimg.com/profile_images/1917641061901688832/GTcAjhZc_normal.jpg",
-          "banner": "https://pbs.twimg.com/profile_banners/1210645781226504192/1663429774/1500x500",
-          "profileImageShape": "Circle",
-          "verified": false,
-          "isBlueVerified": false,
-          "verifiedType": null,
-          "verifiedSince": null,
-          "isIdentityVerified": false,
-          "isProtected": false,
-          "possiblySensitive": false,
-          "profileInterstitialType": null,
-          "withheldInCountries": [],
-          "professional": {
-            "type": "Creator",
-            "category": [
-              {
-                "icon_name": "IconBriefcaseStroke",
-                "id": 979,
-                "name": "Podcast"
-              }
-            ],
-            "restId": "1578640906596806656"
-          },
-          "businessAccount": null,
-          "creatorSubscriptionsCount": 0,
-          "hasHiddenSubscriptions": false,
-          "highlightsInfo": null,
-          "hasGraduatedAccess": true,
-          "isProfileTranslatable": false,
-          "hasCustomTimelines": true,
-          "isTranslator": false,
-          "affiliatesHighlightedLabel": {},
-          "defaultProfile": true,
-          "defaultProfileImage": false,
-          "followerCount": 5623,
-          "followingCount": 445,
-          "tweetCount": 8691,
-          "listedCount": 12,
-          "mediaCount": 373,
-          "favoritesCount": 4788,
-          "createdAt": "2019-12-27T19:38:10.000Z"
-        },
-        "source": "Twitter Web App",
-        "type": "quote",
-        "replyTo": null,
-        "quotedTweet": {
-          "id": "2082789661848801579",
-          "conversationId": "2082789661848801579",
-          "text": "215 Vice Chancellors, Former Vice Chancellors and Academics write open letter to Priyanka Gandhi against her remarks against Prof V Kamakoti https://x.com/_pallavighosh/status/2082789661848801579/photo/1",
-          "displayTextRange": [
-            0,
-            140
-          ],
-          "author": {
-            "id": "42043572",
-            "username": "_pallavighosh",
-            "name": "pallavi ghosh",
-            "bio": "Senior Editor at CNN News18. Host of the weekly YouTube show ONE TAKE and Kadak Chaap. Find me on Instagram: @ pallavi.ghosh25",
-            "location": null,
-            "website": "http://news18.com/byline/pallavighosh",
-            "pinnedTweetIds": [
-              "1770504319793528987"
-            ],
-            "avatar": "https://pbs.twimg.com/profile_images/1897290510529642496/cYju-eQl_normal.jpg",
-            "banner": "https://pbs.twimg.com/profile_banners/42043572/1448292880/1500x500",
-            "profileImageShape": "Circle",
-            "verified": false,
-            "isBlueVerified": true,
-            "verifiedType": null,
-            "verifiedSince": null,
-            "isIdentityVerified": false,
-            "isProtected": false,
-            "possiblySensitive": false,
-            "profileInterstitialType": null,
-            "withheldInCountries": [],
-            "professional": {
-              "type": "Business",
-              "category": [
-                {
-                  "icon_name": "IconBriefcaseStroke",
-                  "id": 580,
-                  "name": "Media & News Company"
-                }
-              ],
-              "restId": "1596533497774379008"
-            },
-            "businessAccount": null,
-            "creatorSubscriptionsCount": 0,
-            "hasHiddenSubscriptions": false,
-            "highlightsInfo": null,
-            "hasGraduatedAccess": true,
-            "isProfileTranslatable": false,
-            "hasCustomTimelines": true,
-            "isTranslator": false,
-            "affiliatesHighlightedLabel": {},
-            "defaultProfile": false,
-            "defaultProfileImage": false,
-            "followerCount": 232372,
-            "followingCount": 1283,
-            "tweetCount": 93990,
-            "listedCount": 716,
-            "mediaCount": 6574,
-            "favoritesCount": 17510,
-            "createdAt": "2009-05-23T15:27:48.000Z"
-          },
-          "source": "Twitter for iPhone",
-          "type": "tweet",
-          "replyTo": null,
-          "quotedTweet": null,
-          "reactionContext": null,
-          "retweetedTweet": null,
-          "likeCount": 6907,
-          "retweetCount": 2552,
-          "replyCount": 535,
-          "quoteCount": 198,
-          "bookmarkCount": 223,
-          "viewCount": 272189,
-          "media": [
-            {
-              "id": "2082789617930276864",
-              "key": "3_2082789617930276864",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOeOH1abEAASylK.jpg",
-              "displayUrl": "pic.x.com/rSSPfvtXrd",
-              "expandedUrl": "https://x.com/_pallavighosh/status/2082789661848801579/photo/1",
-              "thumbnailUrl": "https://pbs.twimg.com/media/HOeOH1abEAASylK.jpg",
-              "width": 1206,
-              "height": 1583,
-              "aspectRatio": [
-                1206,
-                1583
-              ],
-              "sizes": {
-                "thumb": {
-                  "width": 150,
-                  "height": 150,
-                  "resize": "crop"
-                },
-                "small": {
-                  "width": 518,
-                  "height": 680,
-                  "resize": "fit"
-                },
-                "medium": {
-                  "width": 914,
-                  "height": 1200,
-                  "resize": "fit"
-                },
-                "large": {
-                  "width": 1206,
-                  "height": 1583,
-                  "resize": "fit"
-                },
-                "original": {
-                  "width": 1206,
-                  "height": 1583,
-                  "resize": "fit"
-                }
-              },
-              "duration": null,
-              "bitrate": null,
-              "videoInfo": null,
-              "altText": null,
-              "sensitiveMedia": false,
-              "features": {
-                "all": [],
-                "large": [],
-                "medium": [],
-                "small": [],
-                "orig": [
-                  {
-                    "faces": [
-                      {
-                        "x": 0,
-                        "y": 651,
-                        "width": 1206,
-                        "height": 675
-                      },
-                      {
-                        "x": 0,
-                        "y": 377,
-                        "width": 1206,
-                        "height": 1206
-                      },
-                      {
-                        "x": 0,
-                        "y": 208,
-                        "width": 1206,
-                        "height": 1375
-                      },
-                      {
-                        "x": 207,
-                        "y": 0,
-                        "width": 792,
-                        "height": 1583
-                      },
-                      {
-                        "x": 0,
-                        "y": 0,
-                        "width": 1206,
-                        "height": 1583
-                      }
-                    ]
-                  }
-                ]
-              },
-              "mediaAvailability": {
-                "status": "Available",
-                "reason": null
-              },
-              "allowDownload": true,
-              "mediaStats": null,
-              "processingInfo": null,
-              "sourceStatusId": null,
-              "sourceUserId": null,
-              "stickers": null
-            },
-            {
-              "id": "2082789617959653377",
-              "key": "3_2082789617959653377",
-              "type": "photo",
-              "url": "https://pbs.twimg.com/media/HOeOH1hbUAEITiF.jpg",
-              "displayUrl": "pic.x.com/rSSPfvtXrd",
-              "expandedUrl": "https://x.com/_pallavighosh/status/2082789661848801579/photo/1",
-              "thumbnailUrl": "https://pbs.twimg.com/media/HOeOH1hbUAEITiF.jpg",
-              "width": 1206,
-              "height": 1534,
-              "aspectRatio": [
-                603,
-                767
-              ],
-              "sizes": {
-                "thumb": {
-                  "width": 150,
-                  "height": 150,
-                  "resize": "crop"
-                },
-                "small": {
-                  "width": 535,
-                  "height": 680,
-                  "resize": "fit"
-                },
-                "medium": {
-                  "width": 943,
-                  "height": 1200,
-                  "resize": "fit"
-                },
-                "large": {
-                  "width": 1206,
-                  "height": 1534,
-                  "resize": "fit"
-                },
-                "original": {
-                  "width": 1206,
-                  "height": 1534,
-                  "resize": "fit"
-                }
-              },
-              "duration": null,
-              "bitrate": null,
-              "videoInfo": null,
-              "altText": null,
-              "sensitiveMedia": false,
-              "features": {
-                "all": [],
-                "large": [],
-                "medium": [],
-                "small": [],
-                "orig": [
-                  {
-                    "faces": [
-                      {
-                        "x": 0,
-                        "y": 620,
-                        "width": 1206,
-                        "height": 675
-                      },
-                      {
-                        "x": 0,
-                        "y": 328,
-                        "width": 1206,
-                        "height": 1206
-                      },
-                      {
-                        "x": 0,
-                        "y": 159,
-                        "width": 1206,
-                        "height": 1375
-                      },
-                      {
-                        "x": 0,
-                        "y": 0,
-                        "width": 767,
-                        "height": 1534
-                      },
-                      {
-                        "x": 0,
-                        "y": 0,
-                        "width": 1206,
-                        "height": 1534
-                      }
-                    ]
-                  }
-                ]
-              },
-              "mediaAvailability": {
-                "status": "Available",
-                "reason": null
-              },
-              "allowDownload": true,
-              "mediaStats": null,
-              "processingInfo": null,
-              "sourceStatusId": null,
-              "sourceUserId": null,
-              "stickers": null
-            }
-          ],
-          "poll": null,
-          "card": null,
-          "article": null,
-          "hashtags": [],
-          "mentions": [],
-          "urls": [],
-          "symbols": [],
-          "possiblySensitive": false,
-          "limitedActions": null,
-          "hasAIGeneratedMedia": false,
-          "isPaidPromotion": false,
-          "isEdited": false,
-          "editControl": null,
-          "isTranslatable": false,
-          "lang": "en",
-          "translatedText": null,
-          "hasBirdwatchNotes": false,
-          "birdwatchPivot": null,
-          "conversationControl": null,
-          "isPromoted": false,
-          "promotedMetadata": null,
-          "createdAt": "2026-07-30T11:25:26.000Z",
-          "place": null,
-          "communityId": null,
-          "communityResults": null
-        },
-        "reactionContext": null,
-        "retweetedTweet": null,
-        "likeCount": 204,
-        "retweetCount": 57,
-        "replyCount": 7,
-        "quoteCount": 2,
-        "bookmarkCount": 3,
-        "viewCount": 3735,
-        "media": [],
-        "poll": null,
-        "card": null,
-        "article": null,
-        "hashtags": [],
-        "mentions": [],
-        "urls": [],
-        "symbols": [],
-        "possiblySensitive": false,
-        "limitedActions": null,
-        "hasAIGeneratedMedia": false,
-        "isPaidPromotion": false,
-        "isEdited": false,
-        "editControl": null,
-        "isTranslatable": false,
-        "lang": "en",
-        "translatedText": null,
-        "hasBirdwatchNotes": false,
-        "birdwatchPivot": null,
-        "conversationControl": null,
-        "isPromoted": false,
-        "promotedMetadata": null,
-        "createdAt": "2026-07-30T13:44:57.000Z",
-        "place": null,
-        "communityId": null,
-        "communityResults": null
-      },
-      "likeCount": 0,
-      "retweetCount": 57,
-      "replyCount": 0,
-      "quoteCount": 0,
-      "bookmarkCount": 0,
-      "viewCount": 4,
-      "media": [],
-      "poll": null,
-      "card": null,
-      "article": null,
-      "hashtags": [],
-      "mentions": [
-        {
-          "id": "1210645781226504192",
-          "username": "BhaJaPod",
-          "name": "Bharatiya Junta Pod🇮🇳Newsein aur Thoughtein"
-        }
-      ],
-      "urls": [],
-      "symbols": [],
-      "possiblySensitive": false,
-      "limitedActions": null,
-      "hasAIGeneratedMedia": false,
-      "isPaidPromotion": false,
-      "isEdited": false,
-      "editControl": null,
-      "isTranslatable": false,
-      "lang": "en",
-      "translatedText": null,
-      "hasBirdwatchNotes": false,
-      "birdwatchPivot": null,
-      "conversationControl": null,
-      "isPromoted": false,
-      "promotedMetadata": null,
-      "createdAt": "2026-07-30T22:09:59.000Z",
-      "place": null,
-      "communityId": null,
-      "communityResults": null
-    },
-    {
-      "id": "2082951678190367145",
-      "conversationId": "2082951678190367145",
-      "text": "What section of the constitution protects the PM or the center from abuse?",
-      "displayTextRange": [
-        0,
-        88
-      ],
-      "author": {
-        "id": "1678804918080258048",
-        "username": "desiacadpod",
-        "name": "Desi Academia Podcast",
-        "bio": "Tune in to conversations with South Asian knowledge-creators about academic life, research, politics, and survival !\n🗣️🧑‍💻🔬📖📊🇮🇳🌈\n\ndesiacadpod on 🦋",
-        "location": null,
-        "website": "https://open.spotify.com/show/2v6ymNb9uoxMc9gaCKJYLp",
-        "pinnedTweetIds": [
-          "2083765168840843584"
-        ],
-        "avatar": "https://pbs.twimg.com/profile_images/1678805725651558400/5_o3qO4p_normal.jpg",
-        "banner": null,
-        "profileImageShape": "Circle",
-        "verified": false,
-        "isBlueVerified": false,
-        "verifiedType": null,
-        "verifiedSince": null,
-        "isIdentityVerified": false,
-        "isProtected": false,
-        "possiblySensitive": false,
-        "profileInterstitialType": null,
-        "withheldInCountries": [],
-        "professional": null,
-        "businessAccount": null,
-        "creatorSubscriptionsCount": 0,
-        "hasHiddenSubscriptions": false,
-        "highlightsInfo": null,
-        "hasGraduatedAccess": true,
-        "isProfileTranslatable": false,
-        "hasCustomTimelines": false,
-        "isTranslator": false,
-        "affiliatesHighlightedLabel": {},
-        "defaultProfile": true,
-        "defaultProfileImage": false,
-        "followerCount": 782,
-        "followingCount": 617,
-        "tweetCount": 1005,
-        "listedCount": 3,
-        "mediaCount": 91,
-        "favoritesCount": 893,
-        "createdAt": "2023-07-11T16:34:57.000Z"
-      },
-      "source": "Twitter Web App",
-      "type": "retweet",
-      "replyTo": null,
-      "quotedTweet": null,
-      "reactionContext": null,
-      "retweetedTweet": {
-        "id": "2081756685543068004",
-        "conversationId": "2081756685543068004",
-        "text": "What section of the constitution protects the PM or the center from abuse?",
-        "displayTextRange": [
-          0,
-          74
-        ],
-        "author": {
-          "id": "36026659",
-          "username": "ranjodhd",
-          "name": "Ranjodh Singh Dhaliwal",
-          "bio": "Media Theory+STS+Literature+CS.\nAssoc. Prof. of DH, AI, and Media somewhere.\nVP, @SocLitSciArts.\n📚:🖥️+📝+🗄️+🎮+🧫+🔬+🧠+🏭+🌏.\n☭.\nNot a professional account",
-          "location": "Tarn-Taran / Basel",
-          "website": "https://www.ranjodhdhaliwal.com",
-          "pinnedTweetIds": [
-            "1912869181583696096"
-          ],
-          "avatar": "https://pbs.twimg.com/profile_images/1905777686934683648/1X99nxzI_normal.jpg",
-          "banner": "https://pbs.twimg.com/profile_banners/36026659/1606391199/1500x500",
-          "profileImageShape": "Circle",
-          "verified": false,
-          "isBlueVerified": false,
-          "verifiedType": null,
-          "verifiedSince": null,
-          "isIdentityVerified": false,
-          "isProtected": false,
-          "possiblySensitive": false,
-          "profileInterstitialType": null,
-          "withheldInCountries": [],
-          "professional": null,
-          "businessAccount": null,
-          "creatorSubscriptionsCount": 0,
-          "hasHiddenSubscriptions": false,
-          "highlightsInfo": null,
-          "hasGraduatedAccess": true,
-          "isProfileTranslatable": false,
-          "hasCustomTimelines": true,
-          "isTranslator": false,
-          "affiliatesHighlightedLabel": {},
-          "defaultProfile": false,
-          "defaultProfileImage": false,
-          "followerCount": 9190,
-          "followingCount": 7517,
-          "tweetCount": 23305,
-          "listedCount": 67,
-          "mediaCount": 2220,
-          "favoritesCount": 436788,
-          "createdAt": "2009-04-28T09:16:48.000Z"
-        },
-        "source": "Twitter for Android",
-        "type": "quote",
-        "replyTo": null,
-        "quotedTweet": {
-          "id": "2081591636711375138",
-          "conversationId": "2081591636711375138",
-          "text": "Jantar Mantar Protest Probe: Big Update  \n\n- Delhi Police writes to social media platforms  \n\n- Hundreds of posts flagged by Delhi Police  \n\n- Police Demand: Remove anti-PM, anti-centre posts  \n\n- AI-generated abusive posts under scanner  \n\n- Notices issued under I-T Act",
-          "displayTextRange": [
-            0,
-            271
-          ],
-          "author": {
-            "id": "240649814",
-            "username": "TimesNow",
-            "name": "TIMES NOW",
-            "bio": "Breaking news. Bold debates. Unmatched speed. | #TimesNow",
-            "location": "India",
-            "website": "http://www.timesnownews.com",
-            "pinnedTweetIds": [
-              "2093018492358598901"
-            ],
-            "avatar": "https://pbs.twimg.com/profile_images/1354074536925388802/qkHhpnVw_normal.jpg",
-            "banner": "https://pbs.twimg.com/profile_banners/240649814/1778458107/1500x500",
-            "profileImageShape": "Square",
-            "verified": false,
-            "isBlueVerified": true,
-            "verifiedType": null,
-            "verifiedSince": null,
-            "isIdentityVerified": false,
-            "isProtected": false,
-            "possiblySensitive": false,
-            "profileInterstitialType": null,
-            "withheldInCountries": [],
-            "professional": null,
-            "businessAccount": null,
-            "creatorSubscriptionsCount": 0,
-            "hasHiddenSubscriptions": false,
-            "highlightsInfo": null,
-            "hasGraduatedAccess": true,
-            "isProfileTranslatable": false,
-            "hasCustomTimelines": true,
-            "isTranslator": false,
-            "affiliatesHighlightedLabel": {},
-            "defaultProfile": false,
-            "defaultProfileImage": false,
-            "followerCount": 9817143,
-            "followingCount": 369,
-            "tweetCount": 1418931,
-            "listedCount": 6517,
-            "mediaCount": 851635,
-            "favoritesCount": 5,
-            "createdAt": "2011-01-20T12:17:23.000Z"
-          },
-          "source": "Twitter Web App",
-          "type": "tweet",
-          "replyTo": null,
-          "quotedTweet": null,
-          "reactionContext": null,
-          "retweetedTweet": null,
-          "likeCount": 3974,
-          "retweetCount": 834,
-          "replyCount": 376,
-          "quoteCount": 348,
-          "bookmarkCount": 306,
-          "viewCount": 579369,
-          "media": [],
-          "poll": null,
-          "card": null,
-          "article": null,
-          "hashtags": [],
-          "mentions": [],
-          "urls": [],
-          "symbols": [],
-          "possiblySensitive": false,
-          "limitedActions": null,
-          "hasAIGeneratedMedia": false,
-          "isPaidPromotion": false,
-          "isEdited": false,
-          "editControl": null,
-          "isTranslatable": false,
-          "lang": "en",
-          "translatedText": null,
-          "hasBirdwatchNotes": false,
-          "birdwatchPivot": null,
-          "conversationControl": null,
-          "isPromoted": false,
-          "promotedMetadata": null,
-          "createdAt": "2026-07-27T04:04:54.000Z",
-          "place": null,
-          "communityId": null,
-          "communityResults": null
-        },
-        "reactionContext": null,
-        "retweetedTweet": null,
-        "likeCount": 1,
-        "retweetCount": 1,
-        "replyCount": 0,
-        "quoteCount": 0,
-        "bookmarkCount": 0,
-        "viewCount": 341,
-        "media": [],
-        "poll": null,
-        "card": null,
-        "article": null,
-        "hashtags": [],
-        "mentions": [],
-        "urls": [],
-        "symbols": [],
-        "possiblySensitive": false,
-        "limitedActions": null,
-        "hasAIGeneratedMedia": false,
-        "isPaidPromotion": false,
-        "isEdited": false,
-        "editControl": null,
-        "isTranslatable": false,
-        "lang": "en",
-        "translatedText": null,
-        "hasBirdwatchNotes": false,
-        "birdwatchPivot": null,
-        "conversationControl": null,
-        "isPromoted": false,
-        "promotedMetadata": null,
-        "createdAt": "2026-07-27T15:00:45.000Z",
-        "place": null,
-        "communityId": null,
-        "communityResults": null
-      },
-      "likeCount": 0,
-      "retweetCount": 1,
-      "replyCount": 0,
-      "quoteCount": 0,
-      "bookmarkCount": 0,
-      "viewCount": 4,
-      "media": [],
-      "poll": null,
-      "card": null,
-      "article": null,
-      "hashtags": [],
-      "mentions": [
-        {
-          "id": "36026659",
-          "username": "ranjodhd",
-          "name": "Ranjodh Singh Dhaliwal"
-        }
-      ],
-      "urls": [],
-      "symbols": [],
-      "possiblySensitive": false,
-      "limitedActions": null,
-      "hasAIGeneratedMedia": false,
-      "isPaidPromotion": false,
-      "isEdited": false,
-      "editControl": null,
-      "isTranslatable": false,
-      "lang": "en",
-      "translatedText": null,
-      "hasBirdwatchNotes": false,
-      "birdwatchPivot": null,
-      "conversationControl": null,
-      "isPromoted": false,
-      "promotedMetadata": null,
-      "createdAt": "2026-07-30T22:09:14.000Z",
-      "place": null,
-      "communityId": null,
-      "communityResults": null
     }
   ],
   "pagination": {
-    "nextCursor": "DAAHCgABHQwE7IE__-0LAAIAAAATMjA4Mjk1MTY3ODE5MDM2NzE0NQgAAwAAAAIAAA",
-    "prevCursor": "DAAHCgABHQwE7IFAJxELAAIAAAATMjA5Mjc2Mzc5MDQ2Mjg3MzgxMggAAwAAAAEAAA"
+    "nextCursor": "DAAHCgABHRBGjFQ__-sLAAIAAAATMjA4Mzc2NTU5MDk1NTU0NTAxOAgAAwAAAAIAAA",
+    "prevCursor": "DAAHCgABHRBGjFRAJxELAAIAAAATMjA5NDEwMDMzMzE4NjIyNDM2NAgAAwAAAAEAAA"
   }
 }
