@@ -1,6 +1,12 @@
 {
   "tweets": [
     {
+      "text": "😭",
+      "url": "https://twitter.com/desiacadpod/status/2100083038029807825",
+      "timestamp": "",
+      "type": "quote"
+    },
+    {
       "text": "Do OPT next.\n\nhttps://www.youtube.com/watch?v=2jPCHM_HHTA",
       "url": "https://twitter.com/desiacadpod/status/2099319120755830814",
       "timestamp": "",
@@ -53,15 +59,9 @@
       "url": "https://twitter.com/desiacadpod/status/2090450621149122904",
       "timestamp": "",
       "type": "quote"
-    },
-    {
-      "text": "Indian Academia presents such fuckall problems.",
-      "url": "https://twitter.com/desiacadpod/status/2088118236894158977",
-      "timestamp": "",
-      "type": "quote"
     }
   ],
   "username": "desiacadpod",
-  "extracted_at": "2026-09-14T02:31:30.030836",
+  "extracted_at": "2026-09-21T02:28:58.925985",
   "count": 10
 }

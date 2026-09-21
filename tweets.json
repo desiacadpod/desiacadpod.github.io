@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "text": "😭",
+      "url": "https://twitter.com/desiacadpod/status/2100083038029807825",
+      "timestamp": "",
+      "type": "quote"
+    },
+    {
       "text": "Do OPT next.\n\nhttps://www.youtube.com/watch?v=2jPCHM_HHTA",
       "url": "https://twitter.com/desiacadpod/status/2099319120755830814",
       "timestamp": "",
@@ -328,7 +334,7 @@
       ]
     }
   ],
-  "total_count": 35,
-  "new_tweets_added": 2,
-  "last_updated": "2026-09-14T02:31:30.033753"
+  "total_count": 36,
+  "new_tweets_added": 1,
+  "last_updated": "2026-09-21T02:28:58.929089"
 }
