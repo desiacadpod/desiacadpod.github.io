@@ -1,6 +1,18 @@
 {
   "tweets": [
     {
+      "text": "It's time for a new season! 🥳🥳\n\nFor E1, we are joined by friend-of-the-pod Prof. Indranil Dutta @academicmargin and Prof. Chandan Narayan for a fantastic discussion on language science fundamentals, what constitutes ling data, and much more!\nSpotify: https://open.spotify.com/episode/0wqHi4Dg53Co3CAgvBXYXn?si=FTPi14ypSte9COfVGzY3jw",
+      "url": "https://twitter.com/desiacadpod/status/2083765168840843584",
+      "timestamp": "",
+      "type": "tweet"
+    },
+    {
+      "text": "It takes a particular kind of heartless psychopath to be an administrator in Indian institutions.\n\nNormal people just can't do it.",
+      "url": "https://twitter.com/desiacadpod/status/2095505101494382983",
+      "timestamp": "",
+      "type": "quote"
+    },
+    {
       "text": "😭",
       "url": "https://twitter.com/desiacadpod/status/2100083038029807825",
       "timestamp": "",
@@ -25,18 +37,6 @@
       "type": "quote"
     },
     {
-      "text": "It takes a particular kind of heartless psychopath to be an administrator in Indian institutions.\n\nNormal people just can't do it.",
-      "url": "https://twitter.com/desiacadpod/status/2095505101494382983",
-      "timestamp": "",
-      "type": "quote"
-    },
-    {
-      "text": "It's time for a new season! 🥳🥳\n\nFor E1, we are joined by friend-of-the-pod Prof. Indranil Dutta @academicmargin and Prof. Chandan Narayan for a fantastic discussion on language science fundamentals, what constitutes ling data, and much more!\nSpotify: https://open.spotify.com/episode/0wqHi4Dg53Co3CAgvBXYXn?si=FTPi14ypSte9COfVGzY3jw",
-      "url": "https://twitter.com/desiacadpod/status/2083765168840843584",
-      "timestamp": "",
-      "type": "tweet"
-    },
-    {
       "text": "Ok, but how do you make people not freak out at the sight of them?",
       "url": "https://twitter.com/desiacadpod/status/2093566042773618934",
       "timestamp": "",
@@ -47,21 +47,9 @@
       "url": "https://twitter.com/desiacadpod/status/2093304447346565584",
       "timestamp": "",
       "type": "quote"
-    },
-    {
-      "text": "https://x.com/desiacadpod/status/2091181097551868282/photo/1",
-      "url": "https://twitter.com/desiacadpod/status/2091181097551868282",
-      "timestamp": "",
-      "type": "quote"
-    },
-    {
-      "text": "Absolutely wonderful! What happens when basic and translational science is encouraged for decades.",
-      "url": "https://twitter.com/desiacadpod/status/2090450621149122904",
-      "timestamp": "",
-      "type": "quote"
     }
   ],
   "username": "desiacadpod",
-  "extracted_at": "2026-09-21T02:28:58.925985",
-  "count": 10
+  "extracted_at": "2026-09-28T02:42:30.603839",
+  "count": 8
 }
