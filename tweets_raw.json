@@ -1,6 +1,12 @@
 {
   "tweets": [
     {
+      "text": "Very grateful to our friend Harsha who came forward to talk about his forced exit from his PhD program. For justifiable reasons, so many students can't talk abotu what happened to them.\n\nhttps://podcasts.apple.com/us/podcast/s11e1-pivoting-from-a-phd-navigating-an/id1697173592?i=1000746518907",
+      "url": "https://twitter.com/desiacadpod/status/2106732066020680054",
+      "timestamp": "",
+      "type": "quote"
+    },
+    {
       "text": "It's time for a new season! 🥳🥳\n\nFor E1, we are joined by friend-of-the-pod Prof. Indranil Dutta @academicmargin and Prof. Chandan Narayan for a fantastic discussion on language science fundamentals, what constitutes ling data, and much more!\nSpotify: https://open.spotify.com/episode/0wqHi4Dg53Co3CAgvBXYXn?si=FTPi14ypSte9COfVGzY3jw",
       "url": "https://twitter.com/desiacadpod/status/2083765168840843584",
       "timestamp": "",
@@ -35,21 +41,9 @@
       "url": "https://twitter.com/desiacadpod/status/2096648315014176982",
       "timestamp": "",
       "type": "quote"
-    },
-    {
-      "text": "Ok, but how do you make people not freak out at the sight of them?",
-      "url": "https://twitter.com/desiacadpod/status/2093566042773618934",
-      "timestamp": "",
-      "type": "quote"
-    },
-    {
-      "text": "65 student suicides in last 5 years. There has to be no doubt that the accountability needs to be set, the system needs to be overhauled.",
-      "url": "https://twitter.com/desiacadpod/status/2093304447346565584",
-      "timestamp": "",
-      "type": "quote"
     }
   ],
   "username": "desiacadpod",
-  "extracted_at": "2026-09-28T02:42:30.603839",
-  "count": 8
+  "extracted_at": "2026-10-05T03:09:54.762443",
+  "count": 7
 }
