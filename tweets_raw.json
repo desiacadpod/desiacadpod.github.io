@@ -1,6 +1,18 @@
 {
   "tweets": [
     {
+      "text": "This episode is still as relevant as it was in 2023. \nTune in to our old episode where we talk about academic power structures and much more \n\nhttps://open.spotify.com/episode/6LAPP9ROO7elylTIxpwp69?si=IoUF4JnFTbG3_rHQ58nkVA&utm_source=copy-link",
+      "url": "https://twitter.com/desiacadpod/status/2108206558966677549",
+      "timestamp": "",
+      "type": "tweet"
+    },
+    {
+      "text": "Did you know that apart from our regular episodes, we also have bonus episodes we call 'Supplementary Materials'?\n\nNew episode:\nhttps://open.spotify.com/episode/3ABme7d68uqR0djDzZpWzd",
+      "url": "https://twitter.com/desiacadpod/status/2107168381308932441",
+      "timestamp": "",
+      "type": "tweet"
+    },
+    {
       "text": "Very grateful to our friend Harsha who came forward to talk about his forced exit from his PhD program. For justifiable reasons, so many students can't talk abotu what happened to them.\n\nhttps://podcasts.apple.com/us/podcast/s11e1-pivoting-from-a-phd-navigating-an/id1697173592?i=1000746518907",
       "url": "https://twitter.com/desiacadpod/status/2106732066020680054",
       "timestamp": "",
@@ -44,6 +56,6 @@
     }
   ],
   "username": "desiacadpod",
-  "extracted_at": "2026-10-05T03:09:54.762443",
-  "count": 7
+  "extracted_at": "2026-10-12T03:25:35.503331",
+  "count": 9
 }
