@@ -1,6 +1,12 @@
 {
   "tweets": [
     {
+      "text": "Season 14 starts with a bang! Megh, Vatsal and friend of the pod Richa (from @PCCIpod) are joined by Dr. Himanish Ganjoo (@himganj153). In this two part conversation, we cover Himanish’s academic journey, love for cosmology and cricket analytics. \nPart 1👇🏽\nhttps://open.spotify.com/episode/06XCMzvIRbCB2x5MglPcPj?si=To5LmbJdQPiqcCk1GH-m6w&utm_source=copy-link",
+      "url": "https://twitter.com/desiacadpod/status/2113463948443820160",
+      "timestamp": "",
+      "type": "tweet"
+    },
+    {
       "text": "When I was considering a PhD abroad, my mother weighed in with “Saraswathi lives where a culture supports knowledge. India is not her abode anymore. You must go where She is”.\n\nThey are brazen because they know they operate in that culture, and you are silent for the same reason.",
       "url": "https://twitter.com/desiacadpod/status/2111997305792471322",
       "timestamp": "",
@@ -41,21 +47,9 @@
       "url": "https://twitter.com/desiacadpod/status/2083765168840843584",
       "timestamp": "",
       "type": "tweet"
-    },
-    {
-      "text": "It takes a particular kind of heartless psychopath to be an administrator in Indian institutions.\n\nNormal people just can't do it.",
-      "url": "https://twitter.com/desiacadpod/status/2095505101494382983",
-      "timestamp": "",
-      "type": "quote"
-    },
-    {
-      "text": "😭",
-      "url": "https://twitter.com/desiacadpod/status/2100083038029807825",
-      "timestamp": "",
-      "type": "quote"
     }
   ],
   "username": "desiacadpod",
-  "extracted_at": "2026-10-19T02:30:43.215408",
-  "count": 9
+  "extracted_at": "2026-10-26T02:25:21.327207",
+  "count": 8
 }
