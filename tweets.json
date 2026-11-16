@@ -1,6 +1,12 @@
 {
   "data": [
     {
+      "text": "🥲",
+      "url": "https://twitter.com/desiacadpod/status/2120415128466206864",
+      "timestamp": "",
+      "type": "quote"
+    },
+    {
       "text": "We AGREE!",
       "url": "https://twitter.com/desiacadpod/status/2119580764488507453",
       "timestamp": "",
@@ -406,7 +412,7 @@
       ]
     }
   ],
-  "total_count": 48,
-  "new_tweets_added": 5,
-  "last_updated": "2026-11-09T03:46:43.250793"
+  "total_count": 49,
+  "new_tweets_added": 1,
+  "last_updated": "2026-11-16T03:56:37.235568"
 }

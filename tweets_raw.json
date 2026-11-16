@@ -1,6 +1,12 @@
 {
   "tweets": [
     {
+      "text": "🥲",
+      "url": "https://twitter.com/desiacadpod/status/2120415128466206864",
+      "timestamp": "",
+      "type": "quote"
+    },
+    {
       "text": "We AGREE!",
       "url": "https://twitter.com/desiacadpod/status/2119580764488507453",
       "timestamp": "",
@@ -35,27 +41,9 @@
       "url": "https://twitter.com/desiacadpod/status/2113463948443820160",
       "timestamp": "",
       "type": "tweet"
-    },
-    {
-      "text": "When I was considering a PhD abroad, my mother weighed in with “Saraswathi lives where a culture supports knowledge. India is not her abode anymore. You must go where She is”.\n\nThey are brazen because they know they operate in that culture, and you are silent for the same reason.",
-      "url": "https://twitter.com/desiacadpod/status/2111997305792471322",
-      "timestamp": "",
-      "type": "quote"
-    },
-    {
-      "text": "\"NO BINDI NO BUSINESS 😠😡\" bros when someone they don't like actually wears one.",
-      "url": "https://twitter.com/desiacadpod/status/2111552215131529286",
-      "timestamp": "",
-      "type": "quote"
-    },
-    {
-      "text": "Unacceptable.",
-      "url": "https://twitter.com/desiacadpod/status/2110737863012962806",
-      "timestamp": "",
-      "type": "quote"
     }
   ],
   "username": "desiacadpod",
-  "extracted_at": "2026-11-09T03:46:43.247513",
-  "count": 9
+  "extracted_at": "2026-11-16T03:56:37.233210",
+  "count": 7
 }
